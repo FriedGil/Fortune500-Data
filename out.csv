@@ -1,0 +1,1001 @@
+company,rank,rank_change,revenue,profit,num. of employees,sector,city,state,newcomer,ceo_founder,ceo_woman,profitable
+Delta Air Lines,113,65,29899,280,,Transportation,Atlanta,GA,no,no,no,yes
+American Airlines Group,114,60,29882,-1993,,Transportation,Fort Worth,TX,no,no,no,no
+Netflix,115,,29697.8,5116.2,,Media,Los Gatos,CA,no,yes,no,yes
+Paramount Global,116,-7,29579,4543,,Media,New York,NY,no,no,no,yes
+US Foods Holding,117,11,29487,164,,Wholesalers,Rosemont,IL,no,no,no,yes
+Danaher,118,12,29453,6433,,Health Care,Washington,DC,no,no,no,yes
+Jabil,119,-15,29285,696,,Technology,St. Petersburg,FL,no,no,no,yes
+Starbucks,120,5,29060.6,4199.3,,"Hotels, Restaurants & Leisure",Seattle,WA,no,yes,no,yes
+Mondelez International,121,-13,28720,4300,,"Food, Beverages & Tobacco",Chicago,IL,no,no,no,yes
+TD Synnex,109,8,31614.2,395.1,,Wholesalers,Fremont,CA,no,no,no,yes
+Philip Morris International,110,-9,31405,9109,,"Food, Beverages & Tobacco",New York,NY,no,no,no,yes
+World Fuel Services,111,36,31337,73.7,,Energy,Miami,FL,no,no,no,yes
+Performance Food Group,112,2,30398.9,40.7,,Wholesalers,Richmond,VA,no,no,no,yes
+Qualcomm,107,17,33566,9043,,Technology,San Diego,CA,no,no,no,yes
+Capital One Financial,108,-9,32033,12390,,Financials,McLean,VA,no,yes,no,yes
+CarMax,174,-38,20092.1,746.9,,Retailing,Richmond,VA,no,no,no,yes
+3M,102,-6,35355,5921,,Chemicals,St. Paul,MN,no,no,no,yes
+Travelers,103,-5,34816,3662,,Financials,New York,NY,no,no,no,yes
+Arrow Electronics,104,-2,34477,1108.2,,Wholesalers,Centennial,CO,no,no,no,yes
+Honeywell International,105,-11,34392,5542,,Industrials,Charlotte,NC,no,no,no,yes
+Dollar General,106,-15,34220.4,2399.2,,Retailing,Goodlettsville,TN,no,no,no,yes
+USAA,96,-9,37469.6,3300,,Financials,San Antonio,TX,no,no,no,yes
+Northwestern Mutual,97,-7,36751.2,977.8,,Financials,Milwaukee,WI,no,no,no,yes
+Nucor,98,51,36483.9,6827.5,,Materials,Charlotte,NC,no,no,no,yes
+Exelon,99,-7,36347,1706,,Energy,Chicago,IL,no,no,no,yes
+Massachusetts Mutual Life Insurance,100,23,35899.5,319.3,,Financials,Springfield,MA,no,no,no,yes
+Northrop Grumman,101,-15,35667,7005,,Aerospace & Defense,Falls Church,VA,no,no,yes,yes
+Thermo Fisher Scientific,92,3,39211,7725,,Technology,Waltham,MA,no,no,no,yes
+Coca-Cola,93,,38655,9771,,"Food, Beverages & Tobacco",Atlanta,GA,no,no,no,yes
+General Dynamics,94,-10,38469,3257,,Aerospace & Defense,Reston,VA,no,no,yes,yes
+CHS,95,8,38448,554,,"Food, Beverages & Tobacco",Inver Grove Heights,MN,no,no,no,yes
+Abbott Laboratories,86,3,43075,7071,,Health Care,Abbott Park,IL,no,no,no,yes
+StoneX Group,87,-29,42534.2,116.3,,Financials,New York,NY,no,no,no,yes
+Plains GP Holdings,88,39,42078,60,,Energy,Houston,TX,no,no,no,yes
+Enterprise Products Partners,89,16,40806.9,4637.7,,Energy,Houston,TX,no,no,no,yes
+TIAA,90,-11,40526.4,4060.7,,Financials,New York,NY,no,no,yes,yes
+Oracle,91,-11,40479,13746,,Technology,Austin,TX,no,no,yes,yes
+Bristol-Myers Squibb,82,-7,46385,6994,,Health Care,New York,NY,no,no,no,yes
+Nike,83,2,44538,5727,,Apparel,Beaverton,OR,no,no,no,yes
+Deere,84,4,44024,5963,,Industrials,Moline,IL,no,no,no,yes
+American Express,85,-2,43663,8060,,Financials,New York,NY,no,no,no,yes
+TJX,75,22,48550,3282.8,,Retailing,Framingham,MA,no,no,no,yes
+Publix Super Markets,76,-7,48393.9,4412.2,,Food & Drug Stores,Lakeland,FL,no,no,no,yes
+ConocoPhillips,77,79,48349,8079,,Energy,Houston,TX,no,no,no,yes
+Liberty Mutual Insurance Group,78,-7,48200,3068,,Financials,Boston,MA,no,no,no,yes
+Progressive,79,-5,47702,3350.9,,Financials,Mayfield Village,OH,no,no,yes,yes
+Nationwide,80,-4,47376,1617.2,,Financials,Columbus,OH,no,no,no,yes
+Tyson Foods,81,-8,47049,3047,,"Food, Beverages & Tobacco",Springdale,AR,no,no,no,yes
+American International Group,67,5,52057,9388,,Financials,New York,NY,no,no,no,yes
+Best Buy,68,-2,51761,2454,,Retailing,Richfield,MN,no,no,yes,yes
+Charter Communications,69,-5,51682,4654,,Telecommunications,Stamford,CT,no,no,no,yes
+Sysco,70,-10,51297.8,524.2,,Wholesalers,Houston,TX,no,no,no,yes
+Merck,71,-6,51216,13049,,Health Care,Kenilworth,NJ,no,no,no,yes
+New York Life Insurance,72,-5,51198.5,277.1,,Financials,New York,NY,no,no,no,yes
+Caterpillar,73,5,50971,6489,,Industrials,Deerfield,IL,no,no,no,yes
+Cisco Systems,74,-11,49818,10591,,Technology,San Jose,CA,no,no,no,yes
+AbbVie,63,5,56197,11542,,Health Care,North Chicago,IL,no,no,no,yes
+Dow,64,18,54968,6311,,Chemicals,Midland,MI,no,no,no,yes
+Tesla,65,35,53823,5519,,Motor Vehicles & Parts,Austin,TX,no,yes,no,yes
+Allstate,66,4,53228,1599,,Financials,Northbrook,IL,no,no,no,yes
+Boeing,60,-6,62286,-4202,,Aerospace & Defense,Chicago,IL,no,no,no,no
+Morgan Stanley,61,,61121,15034,,Financials,New York,NY,no,no,no,yes
+HCA Healthcare,62,,58752,6956,,Health Care,Nashville,TN,no,no,no,yes
+HP,59,-3,63487,6503,,Technology,Palo Alto,CA,no,no,no,yes
+Goldman Sachs Group,57,2,64989,21635,,Financials,New York,NY,no,no,no,yes
+Raytheon Technologies,58,-1,64388,3864,,Aerospace & Defense,Waltham,MA,no,no,no,yes
+General Electric,48,-10,74196,-6520,,Industrials,Boston,MA,no,no,no,no
+International Business Machines,49,-7,72344,5743,,Technology,Armonk,NY,no,no,no,yes
+MetLife,50,-4,71080,6554,,Financials,New York,NY,no,no,no,yes
+Prudential Financial,51,4,70934,7724,,Financials,Newark,NJ,no,no,no,yes
+Albertsons,52,,69690.4,850.2,,Food & Drug Stores,Boise,ID,no,no,no,yes
+Walt Disney,53,-3,67418,1995,,Media,Burbank,CA,no,no,no,yes
+Energy Transfer,54,27,67417,5470,,Energy,Dallas,TX,no,no,no,yes
+Lockheed Martin,55,-6,67044,6315,,Aerospace & Defense,Bethesda,MD,no,no,no,yes
+Freddie Mac,56,-9,65898,12109,,Financials,McLean,VA,no,no,no,yes
+Pfizer,43,34,81288,21979,,Health Care,New York,NY,no,no,no,yes
+Citigroup,44,-11,79865,21952,,Financials,New York,NY,no,no,yes,yes
+PepsiCo,45,-1,79474,7618,,"Food, Beverages & Tobacco",Purchase,NY,no,no,no,yes
+Intel,46,-6,79024,19868,,Technology,Santa Clara,CA,no,no,no,yes
+Procter & Gamble,47,-4,76118,14306,,Household Products,Cincinnati,OH,no,no,no,yes
+Archer Daniels Midland,38,13,85249,2709,,"Food, Beverages & Tobacco",Chicago,IL,no,no,no,yes
+FedEx,39,6,83959,5231,,Transportation,Memphis,TN,no,yes,no,yes
+Humana,40,1,83064,2933,,Health Care,Louisville,KY,no,no,no,yes
+Wells Fargo,41,-4,82407,21548,,Financials,San Francisco,CA,no,no,no,yes
+State Farm Insurance,42,-3,82224.7,1280.9,,Financials,Bloomington,IL,no,no,no,yes
+Lowe's,35,-4,96250,8442,,Retailing,Mooresville,NC,no,no,no,yes
+Bank of America,36,-7,93851,31978,,Financials,Charlotte,NC,no,no,no,yes
+Johnson & Johnson,37,-1,93775,20878,,Health Care,New Brunswick,NJ,no,no,no,yes
+United Parcel Service,34,1,97287,12890,,Transportation,Atlanta,GA,no,no,yes,yes
+Comcast,28,-2,116385,14159,,Telecommunications,Philadelphia,PA,no,no,no,yes
+Phillips 66,29,19,114852,1317,,Energy,Houston,TX,no,no,no,yes
+Valero Energy,30,23,108332,930,,Energy,San Antonio,TX,no,no,no,yes
+Dell Technologies,31,-3,106995,5563,,Technology,Round Rock,TX,no,yes,no,yes
+Target,32,-2,106005,6946,,Retailing,Minneapolis,MN,no,no,no,yes
+Fannie Mae,33,-8,101543,22176,,Financials,Washington,DC,no,no,no,yes
+Marathon Petroleum,19,13,141032,9738,,Energy,Findlay,OH,no,no,no,yes
+Elevance Health,20,3,138639,6104,,Health Care,Indianapolis,IN,no,no,yes,yes
+Kroger,21,-4,137888,1655,,Food & Drug Stores,Cincinnati,OH,no,no,no,yes
+Ford Motor,22,-1,136341,17937,,Motor Vehicles & Parts,Dearborn,MI,no,no,no,yes
+Verizon Communications,23,-3,133613,22065,,Telecommunications,New York,NY,no,no,no,yes
+JPMorgan Chase,24,-5,127202,48334,,Financials,New York,NY,no,no,no,yes
+General Motors,25,-3,127004,10019,,Motor Vehicles & Parts,Detroit,MI,no,no,yes,yes
+Centene,26,-2,125982,1347,,Health Care,St. Louis,MO,no,no,yes,yes
+Meta Platforms,27,7,117929,39370,,Technology,Menlo Park,CA,no,yes,no,yes
+Cigna,12,1,174078,5365,,Health Care,Bloomfield,CT,no,no,no,yes
+AT&T,13,-2,168864,20081,,Telecommunications,Dallas,TX,no,no,no,yes
+Microsoft,14,1,168088,61271,,Technology,Redmond,WA,no,no,no,yes
+Cardinal Health,15,-1,162467,611,,Health Care,Dublin,OH,no,no,no,yes
+Chevron,16,11,162465,15625,,Energy,San Ramon,CA,no,no,no,yes
+Home Depot,17,1,151157,16433,,Retailing,Atlanta,GA,no,no,no,yes
+Walgreens Boots Alliance,18,-2,148579,2542,,Food & Drug Stores,Deerfield,IL,no,no,yes,yes
+CVS Health,4,,292111,7910,,Health Care,Woonsocket,RI,no,no,yes,yes
+UnitedHealth Group,5,,287597,17285,,Health Care,Minnetonka,MN,no,no,no,yes
+Exxon Mobil,6,4,285640,23040,,Energy,Irving,TX,no,no,no,yes
+Berkshire Hathaway,7,-1,276094,89795,,Financials,Omaha,NE,no,no,no,yes
+Alphabet,8,1,257637,76033,,Technology,Mountain View,CA,no,no,no,yes
+McKesson,9,-2,238228,-4539,,Health Care,Irving,TX,no,no,no,no
+AmerisourceBergen,10,-2,213988.8,1539.9,,Health Care,Conshohocken,PA,no,no,no,yes
+Costco Wholesale,11,1,195929,5007,,Retailing,Issaquah,WA,no,no,no,yes
+Walmart,1,,572754,13673,,Retailing,Bentonville,AR,no,no,no,yes
+Amazon,2,,469822,33364,,Retailing,Seattle,WA,no,no,no,yes
+Apple,3,,365817,94680,,Technology,Cupertino,CA,no,no,no,yes
+Element Solutions,941,,2399.8,203.3,,Chemicals,Fort Lauderdale,FL,no,no,no,yes
+Hilton Grand Vacations,951,,2335,176,,"Hotels, Restaurants & Leisure",Orlando,FL,no,no,no,yes
+Crocs,954,,2313.4,725.7,,Apparel,Broomfield,CO,no,no,no,yes
+Olympic Steel,955,,2312.3,121.1,,Materials,Highland Hills,OH,no,no,no,yes
+Signature Bank,956,,2311.3,918.4,,Financials,New York,NY,no,yes,no,yes
+Saia,961,,2288.7,253.2,,Transportation,Johns Creek,GA,no,no,no,yes
+Sun Communities,964,,2272.6,380.2,,Financials,Southfield,MI,no,no,no,yes
+Century Aluminum,979,,2212.5,-167.1,,Materials,Chicago,IL,no,no,no,no
+Pure Storage,984,,2180.8,-143.3,,Technology,Mountain View,CA,no,no,no,no
+Dun & Bradstreet Holdings,987,,2165.6,-71.7,,Business Services,Jacksonville,FL,no,no,no,no
+Acushnet Holdings,990,,2147.9,178.9,,"Hotels, Restaurants & Leisure",Fairhaven,MA,no,no,no,yes
+Vizio Holding,996,,2124,-39.4,,Industrials,Irvine,CA,no,yes,no,no
+Cowen,998,,2112.8,295.6,,Financials,New York,NY,no,no,no,yes
+Core & Main,606,,5004,166,,Wholesalers,St. Louis,MO,no,no,no,yes
+TPG,610,,4976.4,2180.9,,Financials,Fort Worth,TX,no,no,no,yes
+Ares Management,627,,4770.6,408.8,,Financials,Los Angeles,CA,no,yes,no,yes
+Marvell Technology,654,,4462.4,-421,,Technology,Wilmington,DE,no,no,no,no
+Mattress Firm Group,659,,4392.9,-165.1,,Retailing,Houston,TX,no,no,no,no
+Bright Health Group,688,,4029.4,-1184.9,,Health Care,Minneapolis,MN,no,no,no,no
+eXp World Holdings,717,,3771.2,81.2,,Financials,Bellingham,WA,no,yes,no,yes
+Coterra Energy,762,,3449,1158,,Energy,Houston,TX,no,no,no,yes
+Callaway Golf,811,,3133.4,322,,"Hotels, Restaurants & Leisure",Carlsbad,CA,no,no,no,yes
+Change Healthcare,815,,3090.4,-112.2,,Health Care,Nashville,TN,no,no,no,no
+Atkore,847,,2928,587.9,,Industrials,Harvey,IL,no,no,no,yes
+Alight,853,,2915,-60,,Business Services,Lincolnshire,IL,no,no,no,no
+Annaly Capital Management,867,,2836.2,2389.9,,Financials,New York,NY,no,no,no,yes
+AppLovin,876,,2793.1,35.4,,Technology,Palo Alto,CA,no,yes,no,yes
+SM Energy,905,,2622.9,36.2,,Energy,Denver,CO,no,no,no,yes
+Kaiser Aluminum,906,,2622,-18.5,,Materials,Foothill Ranch,CA,no,no,no,no
+Encore Wire,910,,2592.7,541.4,,Industrials,McKinney,TX,no,no,no,yes
+Pinterest,913,,2578,316.4,,Technology,San Francisco,CA,no,yes,no,yes
+WeWork,914,,2570.1,-4439,,Financials,New York,NY,no,no,no,no
+AMC Entertainment Holdings,920,,2527.9,-1269.1,,Media,Leawood,KS,no,no,no,no
+Kontoor Brands,923,,2475.9,195.4,,Apparel,Greensboro,NC,no,no,no,yes
+Liberty Energy,924,,2470.8,-179.2,,Energy,Denver,CO,no,yes,no,no
+AdaptHealth,926,,2465.1,156.2,,Health Care,Plymouth Meeting,PA,no,no,no,yes
+Jackson Financial,395,,8848,3183,,Financials,Lansing,MI,yes,no,yes,yes
+GXO Logistics,430,,7940,153,,Transportation,Greenwich,CT,yes,no,no,yes
+Victoria's Secret,480,,6784.6,646.4,,Retailing,Reynoldsburg,OH,yes,no,no,yes
+Concentrix,557,,5587,405.6,,Technology,Fremont,CA,no,no,no,yes
+Vroom,805,,3184.3,-370.9,,Retailing,New York,NY,no,no,no,no
+1-800-Flowers.com,997,,2122.2,118.7,,Retailing,Jericho,NY,no,no,no,yes
+Ashland,999,,2111,220,,Chemicals,Wilmington,DE,no,no,no,yes
+DocuSign,1000,,2107.2,-70,,Technology,San Francisco,CA,no,no,yes,no
+Harsco,991,,2147,-3.2,,Business Services,Camp Hill,PA,no,no,no,no
+Beazer Homes USA,992,,2140.3,122,,Engineering & Construction,Atlanta,GA,no,no,no,yes
+Chemed,993,,2139.3,268.6,,Health Care,Cincinnati,OH,no,no,no,yes
+Genesis Energy,994,,2125.5,-165.1,,Energy,Houston,TX,no,no,no,no
+BWX Technologies,995,,2124.1,305.9,,Aerospace & Defense,Lynchburg,VA,no,no,no,yes
+TrueBlue,985,,2173.6,61.6,,Business Services,Tacoma,WA,no,no,no,yes
+Party City Holdco,986,,2171.1,-6.5,,Retailing,Elmsford,NY,no,no,no,no
+Dropbox,988,,2157.9,335.8,,Technology,San Francisco,CA,no,yes,no,yes
+New Jersey Resources,989,,2156.6,117.9,,Energy,Wall,NJ,no,no,no,yes
+Arch Resources,980,,2208,337.6,,Energy,St. Louis,MO,no,no,no,yes
+Aerojet Rocketdyne Holdings,981,,2188,143.7,,Aerospace & Defense,El Segundo,CA,no,no,yes,yes
+Sleep Number,982,,2184.9,153.7,,Retailing,Minneapolis,MN,no,no,yes,yes
+HNI,983,,2184.4,59.8,,Household Products,Muscatine,IA,no,no,no,yes
+Spire,974,,2235.5,271.7,,Energy,St. Louis,MO,no,no,yes,yes
+Vista Outdoor,975,,2225.5,266,,Business Services,Anoka,MN,no,no,no,yes
+Surgery Partners,976,,2225.1,-70.9,,Health Care,Brentwood,TN,no,no,no,no
+LHC Group,977,,2219.6,115.7,,Health Care,Lafayette,LA,no,yes,no,yes
+Amedisys,978,,2214.1,209.1,,Health Care,Baton Rouge,LA,no,no,no,yes
+Kar Auction Services,969,,2251.6,66.5,,Wholesalers,Carmel,IN,no,no,no,yes
+TTM Technologies,970,,2248.7,54.4,,Technology,Santa Ana,CA,no,no,no,yes
+Kirby,971,,2246.7,-247,,Transportation,Houston,TX,no,no,no,no
+Woodward,972,,2245.8,208.6,,Aerospace & Defense,Fort Collins,CO,no,no,no,yes
+Clear Channel Outdoor Holdings,973,,2241.1,-433.8,,Business Services,San Antonio,TX,no,no,no,no
+Alpha Metallurgical Resources,965,,2258.6,288.8,,Energy,Bristol,TN,no,no,no,yes
+GEO Group,966,,2256.6,77.4,,Business Services,Boca Raton,FL,no,no,no,yes
+Viasat,967,,2256.1,3.7,,Technology,Carlsbad,CA,no,no,no,yes
+Benchmark Electronics,968,,2255.3,35.8,,Technology,Tempe,AZ,no,no,no,yes
+Entegris,959,,2298.9,409.1,,Technology,Billerica,MA,no,no,no,yes
+AvalonBay Communities,960,,2294.9,1004.3,,Financials,Arlington,VA,no,no,no,yes
+E.W. Scripps,962,,2283.5,122.7,,Media,Cincinnati,OH,no,no,no,yes
+TTEC Holdings,963,,2273.1,141,,Technology,Englewood,CO,no,yes,no,yes
+SBA Communications,957,,2308.8,237.6,,Financials,Boca Raton,FL,no,no,no,yes
+Murphy Oil,958,,2300.1,-73.7,,Energy,Houston,TX,no,no,no,no
+Stepan,949,,2346,137.8,,Chemicals,Northbrook,IL,no,no,no,yes
+Valhi,950,,2335.4,127.2,,Chemicals,Dallas,TX,no,no,no,yes
+Cooper-Standard Holdings,952,,2330.2,-322.8,,Motor Vehicles & Parts,Northville,MI,no,no,no,no
+Etsy,953,,2329.1,493.5,,Technology,Brooklyn,NY,no,no,no,yes
+Acadia Healthcare,944,,2376.9,190.6,,Health Care,Franklin,TN,no,no,no,yes
+Alexandria Real Estate Equities,945,,2373.6,571.2,,Financials,Pasadena,CA,no,no,no,yes
+Nordson,946,,2362.2,454.4,,Industrials,Westlake,OH,no,no,no,yes
+NewMarket,947,,2356.1,190.9,,Chemicals,Richmond,VA,no,no,no,yes
+Ohio National Mutual,948,,2346.5,-85.2,,Financials,Cincinnati,OH,no,no,yes,no
+Belden,939,,2408.1,63.9,,Industrials,St. Louis,MO,no,no,no,yes
+Allison Transmission Holdings,940,,2402,442,,Motor Vehicles & Parts,Indianapolis,IN,no,no,no,yes
+Portland General Electric,942,,2396,244,,Energy,Portland,OR,no,no,yes,yes
+REV Group,943,,2380.8,44.4,,Motor Vehicles & Parts,Brookfield,WI,no,no,no,yes
+Wolverine World Wide,934,,2414.9,68.6,,Apparel,Rockford,MI,no,no,no,yes
+Gray Television,935,,2413,90,,Media,Atlanta,GA,no,no,no,yes
+Affiliated Managers Group,936,,2412.4,565.7,,Financials,West Palm Beach,FL,no,no,no,yes
+Summit Materials,937,,2409.7,152.2,,Materials,Denver,CO,no,no,yes,yes
+SLM,938,,2409.3,1160.5,,Financials,Newark,DE,no,no,no,yes
+DexCom,929,,2448.5,154.7,,Health Care,San Diego,CA,no,no,no,yes
+Rollins,930,,2424.3,350.7,,Business Services,Atlanta,GA,no,no,no,yes
+Genesco,931,,2422.1,114.9,,Retailing,Nashville,TN,no,no,yes,yes
+Bruker,932,,2417.9,277.1,,Technology,Billerica,MA,no,no,no,yes
+Joann,933,,2417.6,56.7,,Retailing,Hudson,OH,no,no,no,yes
+Knights of Columbus,925,,2467.5,130.3,,Financials,New Haven,CT,no,no,no,yes
+MillerKnoll,927,,2465.1,173.1,,Household Products,Zeeland,MI,no,no,yes,yes
+Equity Residential,928,,2464,1332.9,,Financials,Chicago,IL,no,no,no,yes
+Deckers Outdoor,918,,2545.6,382.6,,Apparel,Goleta,CA,no,no,no,yes
+Griffon,919,,2541.7,79.2,,Materials,New York,NY,no,no,no,yes
+Curtiss-Wright,921,,2505.9,267.2,,Industrials,Davidson,NC,no,no,yes,yes
+MYR Group,922,,2498.3,85,,Engineering & Construction,Henderson,CO,no,no,no,yes
+ManTech International,915,,2554,137,,Technology,Herndon,VA,no,no,no,yes
+BrightView Holdings,916,,2553.6,46.3,,Business Services,Blue Bell,PA,no,no,no,yes
+NortonLifeLock,917,,2552,554,,Technology,Tempe,AZ,no,no,no,yes
+F5,908,,2603.4,331.2,,Technology,Seattle,WA,no,no,no,yes
+Steelcase,909,,2596.2,26.1,,Household Products,Grand Rapids,MI,no,no,yes,yes
+Guess,911,,2591.6,171.4,,Retailing,Los Angeles,CA,no,no,no,yes
+Playtika Holding,912,,2583,308.5,,Media,Henderson,NV,no,no,no,yes
+Maxim Integrated Products,903,,2632.5,827.3,,Technology,San Jose,CA,no,no,no,yes
+Ensign Group,904,,2627.5,194.7,,Health Care,San Juan Capistrano,CA,no,no,no,yes
+Federated Mutual Insurance,907,,2612.2,320.1,,Financials,Owatonna,MN,no,no,no,yes
+MRC Global,901,,2666,-14,,Energy,Houston,TX,no,no,no,no
+Stericycle,902,,2646.9,-27.8,,Business Services,Bannockburn,IL,no,no,yes,no
+Copart,898,,2692.5,936.5,,Retailing,Dallas,TX,no,no,no,yes
+PROG Holdings,899,,2677.9,243.6,,Financials,Draper,UT,no,no,no,yes
+Splunk,900,,2673.7,-1339.1,,Technology,San Francisco,CA,no,no,no,no
+Americold Realty Trust,893,,2714.8,-30.5,,Financials,Atlanta,GA,no,no,no,no
+SkyWest,894,,2713.5,111.9,,Transportation,St. George,UT,no,no,no,yes
+Primerica,895,,2709.7,373.4,,Financials,Duluth,GA,no,no,no,yes
+McAfee,896,,2701,849,,Technology,San Jose,CA,no,no,no,yes
+Nu Skin Enterprises,897,,2695.7,147.3,,Household Products,Provo,UT,no,no,no,yes
+IDEX,887,,2764.8,449.4,,Industrials,Northbrook,IL,no,no,no,yes
+Popular,888,,2764.8,934.9,,Financials,Hato Rey,PR,no,no,no,yes
+Roku,889,,2764.6,242.4,,Media,San Jose,CA,no,yes,no,yes
+Schnitzer Steel Industries,890,,2758.6,165.1,,Materials,Portland,OR,no,no,yes,yes
+Brookdale Senior Living,891,,2758.3,-99.3,,Health Care,Brentwood,TN,no,no,yes,no
+Werner Enterprises,892,,2734.4,259.1,,Transportation,Omaha,NE,no,no,no,yes
+FTI Consulting,882,,2776.2,235,,Business Services,Washington,DC,no,no,no,yes
+Overstock.com,883,,2773.8,389.4,,Retailing,Midvale,UT,no,no,no,yes
+Visteon,884,,2773,41,,Motor Vehicles & Parts,Van Buren Township,MI,no,no,no,yes
+G-III Apparel Group,885,,2766.5,200.6,,Apparel,New York,NY,no,no,no,yes
+ITT,886,,2765,316.3,,Industrials,White Plains,NY,no,no,no,yes
+Waters,877,,2785.9,692.8,,Technology,Milford,MA,no,no,no,yes
+Mutual of America Life Insurance,878,,2784.8,50.7,,Financials,New York,NY,no,no,no,yes
+Hovnanian Enterprises,879,,2782.9,607.8,,Engineering & Construction,Matawan,NJ,no,no,no,yes
+Amica Mutual Insurance,880,,2777.9,117.1,,Financials,Lincoln,RI,no,no,no,yes
+Caleres,881,,2777.6,137,,Retailing,St. Louis,MO,no,no,yes,yes
+Cracker Barrel Old Country Store,871,,2821.4,254.5,,"Hotels, Restaurants & Leisure",Lebanon,TN,no,no,yes,yes
+Virtu Financial,872,,2811.5,476.9,,Financials,New York,NY,no,no,no,yes
+Teleflex,873,,2809.6,485.4,,Health Care,Wayne,PA,no,no,no,yes
+Zynga,874,,2800.5,-104.2,,Media,San Francisco,CA,no,no,no,no
+ATI,875,,2799.8,-38.2,,Materials,Pittsburgh,PA,no,no,no,no
+Twilio,865,,2841.8,-949.9,,Technology,San Francisco,CA,no,yes,no,no
+Univision Communciations,866,,2841,133.7,,Media,New York,NY,no,no,no,yes
+Fleetcor Technologies,868,,2833.7,839.5,,Business Services,Atlanta,GA,no,no,no,yes
+West Pharmaceutical Services,869,,2831.6,661.8,,Health Care,Exton,PA,no,no,no,yes
+Green Plains,870,,2827.2,-66,,Energy,Omaha,NE,no,no,no,no
+Hillenbrand,860,,2864.8,249.9,,Industrials,Batesville,IN,no,no,yes,yes
+Donaldson,861,,2853.9,286.9,,Industrials,Minneapolis,MN,no,no,no,yes
+Moog,862,,2852,157.2,,Aerospace & Defense,East Aurora,NY,no,no,no,yes
+Hawaiian Electric Industries,863,,2850.4,246.2,,Energy,Honolulu,HI,no,no,no,yes
+Five Below,864,,2848.4,278.8,,Retailing,Philadelphia,PA,no,no,no,yes
+PC Connection,855,,2892.6,69.9,,Wholesalers,Merrimack,NH,no,no,no,yes
+Host Hotels & Resorts,856,,2890,-11,,Financials,Bethesda,MD,no,no,no,no
+Boston Properties,857,,2888.6,505.2,,Financials,Boston,MA,no,no,no,yes
+Western Midstream Partners,858,,2877.2,916.3,,Energy,The Woodlands,TX,no,no,no,yes
+Magellan Midstream Partners,859,,2870.1,982,,Energy,Tulsa,OK,no,no,no,yes
+Bio-Rad Laboratories,850,,2922.5,4245.9,,Technology,Hercules,CA,no,no,no,yes
+Cooper Cos.,851,,2922.5,2944.7,,Health Care,San Ramon,CA,no,no,no,yes
+Envista Holdings,852,,2922.4,340.5,,Health Care,Brea,CA,no,no,no,yes
+Newmark Group,854,,2906.4,750.7,,Financials,New York,NY,no,no,no,yes
+Interactive Brokers Group,845,,2938,308,,Financials,Greenwich,CT,no,no,no,yes
+Range Resources,846,,2930.2,411.8,,Energy,Fort Worth,TX,no,no,no,yes
+Cheesecake Factory,848,,2927.5,72.4,,"Hotels, Restaurants & Leisure",Calabasas Hills,CA,no,no,no,yes
+First Solar,849,,2923.4,468.7,,Energy,Tempe,AZ,no,no,no,yes
+UWM Holdings,840,,2970.3,98.4,,Financials,Pontiac,MI,no,no,no,yes
+Zions Bancorp.,841,,2970,1129,,Financials,Salt Lake City,UT,no,no,no,yes
+Quad/Graphics,842,,2960.4,37.8,,Media,Sussex,WI,no,no,no,yes
+MKS Instruments,843,,2949.6,551.4,,Technology,Andover,MA,no,no,no,yes
+Arista Networks,844,,2948,840.9,,Technology,Santa Clara,CA,no,no,yes,yes
+Incyte,835,,2986.3,948.6,,Health Care,Wilmington,DE,no,no,no,yes
+Match Group,836,,2983.3,277.7,,Technology,Dallas,TX,no,no,no,yes
+Valvoline,837,,2981,420,,Chemicals,Lexington,KY,no,no,no,yes
+EnerSys,838,,2977.9,143.4,,Industrials,Reading,PA,no,no,no,yes
+Avaya Holdings,839,,2973,-13,,Technology,Durham,NC,no,no,no,no
+Spectrum Brands Holdings,830,,2998.1,189.6,,Household Products,Middleton,WI,no,no,no,yes
+Euronet Worldwide,831,,2995.4,70.7,,Business Services,Leawood,KS,no,no,no,yes
+TEGNA,832,,2991.1,477,,Media,Tysons,VA,no,no,no,yes
+Vontier,833,,2990.7,413,,Technology,Raleigh,NC,no,no,no,yes
+Cadence Design Systems,834,,2988.2,696,,Technology,San Jose,CA,no,no,no,yes
+Comerica,825,,3024,1168,,Financials,Dallas,TX,no,no,no,yes
+Energizer Holdings,826,,3021.5,160.9,,Household Products,St. Louis,MO,no,no,no,yes
+Hill-Rom Holdings,827,,3018.7,248.5,,Health Care,Chicago,IL,no,no,no,yes
+Rackspace Technology,828,,3009.5,-218.3,,Technology,San Antonio,TX,no,no,no,no
+Verisk Analytics,829,,2998.6,666.2,,Business Services,Jersey City,NJ,no,no,no,yes
+Comfort Systems USA,820,,3073.6,143.3,,Engineering & Construction,Houston,TX,no,no,no,yes
+EQT,821,,3064.7,-1155.8,,Energy,Pittsburgh,PA,no,no,no,no
+Brown & Brown,822,,3051.4,587.1,,Financials,Daytona Beach,FL,no,no,no,yes
+LGI Homes,823,,3050.1,429.6,,Engineering & Construction,The Woodlands,TX,no,no,no,yes
+Hyatt Hotels,824,,3028,-222,,"Hotels, Restaurants & Leisure",Chicago,IL,no,no,no,no
+Grocery Outlet Holding,816,,3079.6,62.3,,Food & Drug Stores,Emeryville,CA,no,no,no,yes
+AMC Networks,817,,3077.6,250.6,,Media,New York,NY,no,no,no,yes
+Hyster-Yale Materials Handling,818,,3075.7,-173,,Industrials,Cleveland,OH,no,no,no,no
+ChampionX,819,,3075,113.3,,Energy,The Woodlands,TX,no,no,no,yes
+Travel + Leisure,810,,3134,308,,"Hotels, Restaurants & Leisure",Orlando,FL,no,no,no,yes
+Dycom Industries,812,,3130.5,48.6,,Engineering & Construction,Palm Beach Gardens,FL,no,no,no,yes
+Columbia Sportswear,813,,3126.4,354.1,,Apparel,Portland,OR,no,no,no,yes
+II-VI,814,,3105.9,297.6,,Technology,Saxonburg,PA,no,no,no,yes
+Worthington Industries,806,,3171.4,723.8,,Materials,Columbus,OH,no,no,no,yes
+Calumet Specialty Products Partners,807,,3148,-260.1,,Energy,Indianapolis,IN,no,no,no,no
+Xilinx,808,,3147.6,646.5,,Technology,San Jose,CA,no,no,yes,yes
+TransUnion,809,,3145,1387.1,,Business Services,Chicago,IL,no,no,no,yes
+Gannett,801,,3208.1,-135,,Media,McLean,VA,no,no,no,no
+ResMed,802,,3196.8,474.5,,Health Care,San Diego,CA,no,no,no,yes
+Designer Brands,803,,3196.6,154.5,,Retailing,Columbus,OH,no,no,no,yes
+Graham Holdings,804,,3186,352.1,,Business Services,Arlington,VA,no,no,no,yes
+Lyft,800,,3208.3,-1009.4,,Technology,San Francisco,CA,no,yes,no,no
+AptarGroup,796,,3227.2,244.1,,Materials,Crystal Lake,IL,no,no,no,yes
+Citrix Systems,797,,3217.2,307.5,,Technology,Fort Lauderdale,FL,no,no,no,yes
+IDEXX Laboratories,798,,3215.4,744.8,,Health Care,Westbrook,ME,no,no,no,yes
+Tetra Tech,799,,3213.5,232.8,,Engineering & Construction,Pasadena,CA,no,no,no,yes
+Applied Industrial Technologies,792,,3235.9,144.8,,Wholesalers,Cleveland,OH,no,no,no,yes
+Lincoln Electric Holdings,793,,3234.2,276.5,,Industrials,Cleveland,OH,no,no,no,yes
+First Horizon,794,,3234,999,,Financials,Memphis,TN,no,no,no,yes
+Spirit Airlines,795,,3230.8,-472.6,,Transportation,Miramar,FL,no,no,no,no
+H.B. Fuller,787,,3278,161.4,,Chemicals,St. Paul,MN,no,no,no,yes
+Middleby,788,,3250.8,488.5,,Industrials,Elgin,IL,no,no,no,yes
+Renewable Energy Group,789,,3244.1,213.8,,Energy,Ames,IA,no,no,yes,yes
+MSC Industrial Direct,790,,3243.2,216.9,,Wholesalers,Melville,NY,no,no,no,yes
+Vishay Intertechnology,791,,3240.5,298,,Technology,Malvern,PA,no,no,no,yes
+Evercore,783,,3307.1,740.1,,Financials,New York,NY,no,no,no,yes
+Stewart Information Services,784,,3305.8,323.2,,Financials,Houston,TX,no,no,no,yes
+Central Garden & Pet,785,,3303.7,151.7,,Household Products,Walnut Creek,CA,no,no,no,yes
+GMS,786,,3298.8,105.6,,Wholesalers,Tucker,GA,no,no,no,yes
+Fortinet,778,,3342.2,606.8,,Technology,Sunnyvale,CA,no,yes,no,yes
+Brinker International,779,,3337.8,131.6,,"Hotels, Restaurants & Leisure",Dallas,TX,no,no,no,yes
+Albemarle,780,,3328,123.7,,Chemicals,Charlotte,NC,no,no,no,yes
+Peabody Energy,781,,3318.3,360.1,,Energy,St. Louis,MO,no,no,no,yes
+Light & Wonder,782,,3310,371,,"Hotels, Restaurants & Leisure",Las Vegas,NV,no,no,no,yes
+Franchise Group,774,,3362.7,363.8,,Retailing,Delaware,OH,no,no,no,yes
+NLV Financial,775,,3350.8,392.1,,Financials,Montpelier,VT,no,no,no,yes
+CrossAmerica Partners,776,,3350.5,21.7,,Energy,Allentown,PA,no,no,no,yes
+Mr. Cooper Group,777,,3344,1454,,Financials,Coppell,TX,no,no,no,yes
+Take-Two Interactive Software,770,,3372.8,588.9,,Media,New York,NY,no,no,no,yes
+Boyd Gaming,771,,3369.8,463.8,,"Hotels, Restaurants & Leisure",Las Vegas,NV,no,no,no,yes
+Plexus,772,,3368.9,138.9,,Technology,Neenah,WI,no,no,no,yes
+ScanSource,773,,3364.2,10.8,,Wholesalers,Greenville,SC,no,yes,no,yes
+Public Storage,765,,3415.8,1953.3,,Financials,Glendale,CA,no,no,no,yes
+Cabot,766,,3409,250,,Chemicals,Boston,MA,no,no,no,yes
+Crane Holdings,767,,3408,435.4,,Industrials,Stamford,CT,no,no,no,yes
+Atmos Energy,768,,3407.5,665.6,,Energy,Dallas,TX,no,no,no,yes
+Selective Insurance Group,769,,3379.2,403.8,,Financials,Branchville,NJ,no,no,no,yes
+Brown-Forman,759,,3461,903,,"Food, Beverages & Tobacco",Louisville,KY,no,no,no,yes
+Navient,761,,3454,717,,Financials,Wilmington,DE,no,no,no,yes
+Option Care Health,763,,3438.6,139.9,,Health Care,Bannockburn,IL,no,no,no,yes
+Floor & Decor Holdings,764,,3433.5,283.2,,Retailing,Atlanta,GA,no,no,no,yes
+SiteOne Landscape Supply,756,,3475.7,238.4,,Wholesalers,Roswell,GA,no,no,no,yes
+Texas Roadhouse,757,,3463.9,245.3,,"Hotels, Restaurants & Leisure",Louisville,KY,no,no,no,yes
+Akamai Technologies,758,,3461.2,651.6,,Technology,Cambridge,MA,no,yes,no,yes
+Acuity Brands,759,,3461,306.3,,Industrials,Atlanta,GA,no,no,no,yes
+Primoris Services,752,,3497.6,115.6,,Engineering & Construction,Dallas,TX,no,no,no,yes
+Cboe Global Markets,753,,3494.8,529,,Financials,Chicago,IL,no,no,no,yes
+Carter's,754,,3486.4,339.7,,Apparel,Atlanta,GA,no,no,no,yes
+TopBuild,755,,3486.2,324,,Engineering & Construction,Daytona Beach,FL,no,no,no,yes
+Rithm Capital,747,,3533.1,772.2,,Financials,New York,NY,no,no,no,yes
+Medical Mutual of Ohio,748,,3514.8,78.3,,Financials,Cleveland,OH,no,no,no,yes
+Granite Construction,749,,3501.9,10.1,,Engineering & Construction,Watsonville,CA,no,no,no,yes
+Valmont Industries,750,,3501.6,195.6,,Materials,Omaha,NE,no,no,no,yes
+Sprague Resources,751,,3498.2,-68.9,,Energy,Portsmouth,NH,no,no,no,no
+Super Micro Computer,743,,3557.4,111.9,,Technology,San Jose,CA,no,yes,no,yes
+Flowserve,744,,3541.1,125.9,,Industrials,Irving,TX,no,no,no,yes
+Charles River Laboratories International,745,,3540.2,391,,Health Care,Wilmington,MA,no,no,no,yes
+A.O. Smith,746,,3538.9,487.1,,Industrials,Milwaukee,WI,no,no,no,yes
+Ciena,738,,3620.7,500.2,,Technology,Hanover,MD,no,no,no,yes
+PriceSmart,739,,3619.9,98,,Retailing,San Diego,CA,no,no,yes,yes
+Advantage Solutions,740,,3602.3,54.5,,Business Services,Irvine,CA,no,no,yes,yes
+H&R Block,741,,3588.6,683.9,,Financials,Kansas City,MO,no,no,no,yes
+iHeartMedia,742,,3558.3,-159.2,,Media,San Antonio,TX,no,no,no,no
+Parsons,733,,3660.8,64.1,,Aerospace & Defense,Centreville,VA,no,no,yes,yes
+Trimble,734,,3659.1,492.7,,Technology,Sunnyvale,CA,no,no,no,yes
+OGE Energy,735,,3653.7,737.3,,Energy,Oklahoma City,OK,no,no,no,yes
+Garrett Motion,736,,3633,,,Motor Vehicles & Parts,Plymouth,MI,no,no,no,no
+Winnebago Industries,737,,3629.8,281.9,,Motor Vehicles & Parts,Eden Prairie,MN,no,no,no,yes
+Southwest Gas Holdings,728,,3680.5,200.8,,Energy,Las Vegas,NV,no,no,yes,yes
+Pitney Bowes,729,,3673.6,-1.4,,Technology,Stamford,CT,no,no,no,no
+Lamb Weston Holdings,730,,3670.9,317.8,,"Food, Beverages & Tobacco",Eagle,ID,no,no,no,yes
+Alliant Energy,731,,3669,659,,Energy,Madison,WI,no,no,no,yes
+Resolute Forest Products,732,,3664,307,,Materials,Calhoun,TN,no,no,no,yes
+Mettler-Toledo International,724,,3717.9,769,,Technology,Columbus,OH,no,no,no,yes
+Abercrombie & Fitch,725,,3712.8,263,,Retailing,New Albany,OH,no,no,yes,yes
+Teradyne,726,,3702.9,1014.6,,Technology,North Reading,MA,no,no,no,yes
+American Equity Investment Life Holding,727,,3689.5,474,,Financials,West Des Moines,IA,no,no,no,yes
+RH,720,,3758.8,688.5,,Retailing,Corte Madera,CA,no,no,no,yes
+EPAM Systems,721,,3758.1,481.7,,Technology,Newtown,PA,no,yes,no,yes
+M/I Homes,722,,3745.9,396.9,,Engineering & Construction,Columbus,OH,no,no,no,yes
+Generac Holdings,723,,3737.2,550.5,,Industrials,Waukesha,WI,no,no,no,yes
+Pinnacle West Capital,716,,3803.8,618.7,,Energy,Phoenix,AZ,no,no,no,yes
+Mueller Industries,718,,3769.3,468.5,,Industrials,Collierville,TN,no,no,no,yes
+Wynn Resorts,719,,3763.7,-755.8,,"Hotels, Restaurants & Leisure",Las Vegas,NV,no,no,no,no
+Ventas,711,,3828,49,,Financials,Chicago,IL,no,no,yes,yes
+GoDaddy,712,,3815.7,242.3,,Technology,Tempe,AZ,no,no,no,yes
+Regal Rexnord,713,,3810.3,209.9,,Industrials,Beloit,WI,no,no,no,yes
+Puget Energy,714,,3805.7,260.8,,Energy,Bellevue,WA,no,no,yes,yes
+Clean Harbors,715,,3805.6,203.2,,Business Services,Norwell,MA,no,yes,no,yes
+Terex,706,,3886.8,220.9,,Industrials,Norwalk,CT,no,no,no,yes
+Sally Beauty Holdings,707,,3875,239.9,,Retailing,Denton,TX,no,no,yes,yes
+Enovis,708,,3854.3,71.7,,Industrials,Wilmington,DE,no,no,no,yes
+IAC,709,,3845.1,597.5,,Technology,New York,NY,no,no,no,yes
+Meritor,710,,3833,199,,Motor Vehicles & Parts,Troy,MI,no,no,no,yes
+American Water Works,702,,3930,1263,,Energy,Camden,NJ,no,no,yes,yes
+Matson,703,,3925.3,927.4,,Transportation,Honolulu,HI,no,no,no,yes
+Diebold Nixdorf,704,,3905.2,-78.8,,Technology,Hudson,OH,no,no,no,no
+Marriott Vacations Worldwide,705,,3890,49,,"Hotels, Restaurants & Leisure",Orlando,FL,no,no,no,yes
+APi Group,701,,3940,47,,Engineering & Construction,New Brighton,MN,no,no,no,yes
+Align Technology,699,,3952.6,772,,Health Care,Tempe,AZ,no,no,no,yes
+loanDepot,700,,3943.2,113.5,,Financials,Foothill Ranch,CA,no,no,no,yes
+Mercury General,693,,3993.4,247.9,,Financials,Los Angeles,CA,no,no,no,yes
+AMN Healthcare Services,694,,3984.2,327.4,,Health Care,Dallas,TX,no,no,yes,yes
+Tri Pointe Homes,695,,3982.2,469.3,,Engineering & Construction,Incline Village,NV,no,no,no,yes
+ArcBest,696,,3980.1,213.5,,Transportation,Fort Smith,AR,no,no,yes,yes
+Toro,697,,3959.6,409.9,,Industrials,Bloomington,MN,no,no,no,yes
+Spirit AeroSystems Holdings,698,,3953,-540.8,,Aerospace & Defense,Wichita,KS,no,no,no,no
+Peloton Interactive,689,,4021.8,-189,,"Hotels, Restaurants & Leisure",New York,NY,no,no,no,no
+Country Financial,690,,4016.2,419.2,,Financials,Bloomington,IL,no,no,no,yes
+Qorvo,691,,4015.3,733.6,,Technology,Greensboro,NC,no,no,no,yes
+Catalent,692,,3998,585,,Health Care,Somerset,NJ,no,no,no,yes
+Snap,683,,4117,-488,,Technology,Santa Monica,CA,no,yes,no,no
+Zoom Video Communications,684,,4099.9,1375.6,,Technology,San Jose,CA,no,yes,no,yes
+Patrick Industries,685,,4078.1,224.9,,Materials,Elkhart,IN,no,no,no,yes
+Paychex,686,,4056.8,1097.5,,Business Services,Rochester,NY,no,no,no,yes
+Atlas Air Worldwide Holdings,687,,4030.8,493.3,,Transportation,Purchase,NY,no,no,no,yes
+Conduent,678,,4140,-28,,Business Services,Florham Park,NJ,no,no,no,no
+Timken,679,,4132.9,369.1,,Industrials,North Canton,OH,no,no,no,yes
+Domtar,680,,4132,-27,,Materials,Fort Mill,SC,no,no,no,no
+Bloomin' Brands,681,,4122.4,215.6,,"Hotels, Restaurants & Leisure",Tampa,FL,no,no,no,yes
+CNO Financial Group,682,,4122.2,441,,Financials,Carmel,IN,no,no,no,yes
+Century Communities,673,,4216.3,498.5,,Engineering & Construction,Greenwood Village,CO,no,yes,no,yes
+Synopsys,674,,4204.2,757.5,,Technology,Mountain View,CA,no,yes,no,yes
+Brink's,675,,4200.2,105.2,,Business Services,Richmond,VA,no,no,no,yes
+Lennox International,676,,4194.1,464,,Industrials,Richardson,TX,no,no,no,yes
+Service Corp. International,677,,4143.1,802.9,,Business Services,Houston,TX,no,no,no,yes
+Dentsply Sirona,668,,4251,421,,Health Care,Charlotte,NC,no,no,no,yes
+Hub Group,669,,4232.4,171.5,,Transportation,Oak Brook,IL,no,no,no,yes
+Bread Financial Holdings,670,,4230,801,,Business Services,Columbus,OH,no,no,no,yes
+Voya Financial,670,,4230,2126,,Financials,New York,NY,no,no,no,yes
+Weis Markets,672,,4224.4,108.8,,Food & Drug Stores,Sunbury,PA,no,no,no,yes
+Flowers Foods,664,,4330.8,206.2,,"Food, Beverages & Tobacco",Thomasville,GA,no,no,no,yes
+BlueLinx Holdings,665,,4277.2,296.1,,Wholesalers,Marietta,GA,no,no,no,yes
+Palo Alto Networks,666,,4256.1,-498.9,,Technology,Santa Clara,CA,no,no,no,no
+Maximus,667,,4254.5,291.2,,Technology,Reston,VA,no,no,no,yes
+American National Group,660,,4391.8,699.3,,Financials,Galveston,TX,no,no,no,yes
+Autodesk,661,,4386.4,497,,Technology,San Rafael,CA,no,no,no,yes
+Domino's Pizza,662,,4357.4,510.5,,"Hotels, Restaurants & Leisure",Ann Arbor,MI,no,no,no,yes
+ASGN,663,,4333.8,409.9,,Business Services,Glen Allen,VA,no,no,no,yes
+PennyMac Financial Services,655,,4450.2,1003.5,,Financials,Westlake Village,CA,no,no,no,yes
+Digital Realty Trust,656,,4427.9,1709.3,,Financials,Austin,TX,no,no,no,yes
+TreeHouse Foods,657,,4405.5,-12.5,,"Food, Beverages & Tobacco",Oak Brook,IL,no,no,no,no
+Ralph Lauren,658,,4400.8,-121.1,,Apparel,New York,NY,no,no,no,no
+TriNet Group,649,,4540,338,,Business Services,Dublin,CA,no,no,no,yes
+Sentry Insurance Group,650,,4526.2,739.9,,Financials,Stevens Point,WI,no,no,no,yes
+Illumina,651,,4526,762,,Technology,San Diego,CA,no,no,no,yes
+Iron Mountain,652,,4491.5,450.2,,Business Services,Boston,MA,no,no,no,yes
+LCI Industries,653,,4472.7,287.7,,Motor Vehicles & Parts,Elkhart,IN,no,no,no,yes
+Covetrus,643,,4575,-54,,Health Care,Portland,ME,no,no,no,no
+Crestwood Equity Partners,644,,4569,-78.5,,Energy,Houston,TX,no,yes,no,no
+Louisiana-Pacific,645,,4553,1377,,Materials,Nashville,TN,no,no,no,yes
+Urban Outfitters,646,,4548.8,310.6,,Retailing,Philadelphia,PA,no,yes,no,yes
+Penn Mutual Life Insurance,647,,4545.6,522.9,,Financials,Horsham,PA,no,no,no,yes
+Amerco,648,,4542,610.9,,Transportation,Reno,NV,no,no,no,yes
+Tutor Perini,638,,4641.8,91.9,,Engineering & Construction,Sylmar,CA,no,no,no,yes
+Antero Resources,639,,4619.4,-186.9,,Energy,Denver,CO,no,yes,no,no
+Teledyne Technologies,640,,4614.3,445.3,,Aerospace & Defense,Thousand Oaks,CA,no,no,no,yes
+Snap-on,641,,4601.7,820.5,,Industrials,Kenosha,WI,no,no,no,yes
+Rent-A-Center,642,,4583.5,134.9,,Retailing,Plano,TX,no,no,no,yes
+Gartner,633,,4734,793.6,,Technology,Stamford,CT,no,no,no,yes
+Par Pacific Holdings,634,,4710.1,-81.3,,Energy,Houston,TX,no,no,no,no
+Hubbell,635,,4703.5,399.5,,Industrials,Shelton,CT,no,no,no,yes
+CME Group,636,,4689.7,2636.4,,Financials,Chicago,IL,no,no,no,yes
+Nexstar Media Group,637,,4648.4,834.6,,Media,Irving,TX,no,yes,no,yes
+Prologis,629,,4759.4,2939.7,,Financials,San Francisco,CA,no,yes,no,yes
+Welltower,630,,4742.1,336.1,,Financials,Toledo,OH,no,no,no,yes
+Darling Ingredients,631,,4741.4,650.9,,"Food, Beverages & Tobacco",Irving,TX,no,no,no,yes
+Juniper Networks,632,,4735.4,252.7,,Technology,Sunnyvale,CA,no,no,no,yes
+TransDigm Group,624,,4798,680,,Aerospace & Defense,Cleveland,OH,no,no,no,yes
+Stifel Financial,625,,4783.1,824.9,,Financials,St. Louis,MO,no,no,no,yes
+JELD-WEN Holding,626,,4771.7,168.8,,Materials,Charlotte,NC,no,no,no,yes
+Elanco Animal Health,628,,4765,-472,,Health Care,Greenfield,IN,no,no,no,no
+Kelly Services,618,,4909.7,156.1,,Business Services,Troy,MI,no,no,no,yes
+NiSource,619,,4899.6,584.9,,Energy,Merrillville,IN,no,no,no,yes
+OneMain Holdings,620,,4895,1314,,Financials,Evansville,IN,no,no,no,yes
+DoorDash,621,,4888,-468,,Technology,San Francisco,CA,no,yes,no,no
+Avient,622,,4818.8,230.8,,Chemicals,Avon Lake,OH,no,no,no,yes
+Sanderson Farms,623,,4799.7,455.1,,"Food, Beverages & Tobacco",Laurel,MS,no,no,no,yes
+R.R. Donnelley & Sons,613,,4963.7,3.7,,Media,Chicago,IL,no,no,no,yes
+Keysight Technologies,614,,4941,894,,Technology,Santa Rosa,CA,no,no,no,yes
+Tempur Sealy International,615,,4930.8,624.5,,Household Products,Lexington,KY,no,no,no,yes
+Scotts Miracle-Gro,616,,4925,512.5,,Chemicals,Marysville,OH,no,no,no,yes
+Equifax,617,,4923.9,744.2,,Business Services,Atlanta,GA,no,no,no,yes
+Broadridge Financial Solutions,608,,4993.7,547.5,,Business Services,Lake Success,NY,no,no,no,yes
+Ingles Markets,609,,4987.9,249.7,,Food & Drug Stores,Black Mountain,NC,no,no,no,yes
+Insperity,611,,4973.1,124.1,,Business Services,Kingwood,TX,no,yes,no,yes
+Howmet Aerospace,612,,4972,258,,Aerospace & Defense,Pittsburgh,PA,no,no,no,yes
+CUNA Mutual Group,602,,5049.5,622.3,,Financials,Madison,WI,no,no,no,yes
+FMC,603,,5045.2,736.5,,Chemicals,Philadelphia,PA,no,no,no,yes
+Carlisle,604,,5030,421.7,,Materials,Scottsdale,AZ,no,no,no,yes
+American Eagle Outfitters,605,,5010.8,419.6,,Retailing,Pittsburgh,PA,no,no,no,yes
+Vertiv Holdings,607,,4998.1,119.6,,Industrials,Columbus,OH,no,no,no,yes
+SS&C Technologies Holdings,601,,5051,800,,Technology,Windsor,CT,no,yes,no,yes
+PerkinElmer,600,,5067.2,943.2,,Health Care,Waltham,MA,no,no,no,yes
+Skyworks Solutions,595,,5109.1,1498.3,,Technology,Irvine,CA,no,no,no,yes
+Endeavor Group Holdings,596,,5077.7,-296.6,,Media,Beverly Hills,CA,no,no,no,no
+Twitter,597,,5077.5,-221.4,,Technology,San Francisco,CA,no,no,no,no
+Leggett & Platt,598,,5072.6,402.4,,Household Products,Carthage,MO,no,no,no,yes
+Western Union,599,,5070.8,805.8,,Business Services,Denver,CO,no,no,no,yes
+Yellow,591,,5121.8,-109.1,,Transportation,Nashville,TN,no,no,no,no
+Encompass Health,592,,5121.6,412.2,,Health Care,Birmingham,AL,no,no,no,yes
+Simon Property Group,593,,5116.8,2249.6,,Financials,Indianapolis,IN,no,no,no,yes
+Globe Life,594,,5112.9,745,,Financials,McKinney,TX,no,no,no,yes
+Church & Dwight,586,,5190.1,827.5,,Household Products,Ewing,NJ,no,no,no,yes
+American Axle & Manufacturing,587,,5156.6,5.9,,Motor Vehicles & Parts,Detroit,MI,no,no,no,yes
+Meritage Homes,588,,5141.3,737.4,,Engineering & Construction,Scottsdale,AZ,no,no,no,yes
+Workday,589,,5138.8,29.4,,Technology,Pleasanton,CA,no,yes,no,yes
+Rush Enterprises,590,,5126.1,241.4,,Retailing,New Braunfels,TX,no,no,no,yes
+NGL Energy Partners,581,,5243.2,-639.8,,Energy,Tulsa,OK,no,no,no,no
+Edwards Lifesciences,582,,5232.5,1503.1,,Health Care,Irvine,CA,no,no,no,yes
+Hanover Insurance Group,583,,5227.8,418.7,,Financials,Worcester,MA,no,no,no,yes
+Syneos Health,584,,5213,234.8,,Health Care,Morrisville,NC,no,no,yes,yes
+Xylem,585,,5195,427,,Industrials,Washington,DC,no,no,no,yes
+Pool,577,,5295.6,650.6,,Wholesalers,Covington,LA,no,no,no,yes
+Old Dominion Freight Line,578,,5256.3,1034.4,,Transportation,Thomasville,NC,no,no,no,yes
+Fortive,579,,5254.7,608.4,,Industrials,Everett,WA,no,no,no,yes
+MDC Holdings,580,,5254.7,573.7,,Engineering & Construction,Denver,CO,no,no,no,yes
+Microchip Technology,571,,5438.4,349.4,,Technology,Chandler,AZ,no,no,no,yes
+Harley-Davidson,572,,5336.3,650,,Transportation,Milwaukee,WI,no,no,no,yes
+Telephone & Data Systems,573,,5329,156,,Telecommunications,Chicago,IL,no,no,no,yes
+ADT,574,,5307.1,-340.8,,Business Services,Boca Raton,FL,no,no,no,no
+First Republic Bank,575,,5305,1478,,Financials,San Francisco,CA,no,no,no,yes
+Warner Music Group,576,,5301,304,,Media,New York,NY,no,no,no,yes
+NOV,566,,5524,-250,,Energy,Houston,TX,no,no,no,no
+Las Vegas Sands,567,,5505,-961,,"Hotels, Restaurants & Leisure",Las Vegas,NV,no,no,no,no
+Martin Marietta Materials,568,,5493.2,702.5,,Materials,Raleigh,NC,no,no,no,yes
+Marathon Oil,569,,5467,946,,Energy,Houston,TX,no,no,no,yes
+Mattel,570,,5457.7,903,,Household Products,El Segundo,CA,no,no,no,yes
+Greif,561,,5556.1,390.7,,Materials,Delaware,OH,no,no,no,yes
+Vulcan Materials,562,,5552.2,670.8,,Materials,Birmingham,AL,no,no,no,yes
+Ametek,563,,5546.5,990.1,,Technology,Berwyn,PA,no,no,no,yes
+Monster Beverage,564,,5541.4,1377.5,,"Food, Beverages & Tobacco",Corona,CA,no,no,no,yes
+Sealed Air,565,,5533.8,506.8,,Materials,Charlotte,NC,no,no,no,yes
+Sonoco Products,556,,5590.4,-85.5,,Materials,Hartsville,SC,no,no,no,no
+Evergy,558,,5586.7,879.7,,Energy,Kansas City,MO,no,no,no,yes
+Cornerstone Building Brands,559,,5583.1,665.9,,Materials,Cary,NC,no,no,yes,yes
+Coca-Cola Consolidated,560,,5562.7,189.6,,"Food, Beverages & Tobacco",Charlotte,NC,no,no,no,yes
+Hologic,551,,5632.3,1871.5,,Health Care,Marlborough,MA,no,no,no,yes
+Electronic Arts,552,,5629,837,,Media,Redwood City,CA,no,no,no,yes
+Zebra Technologies,553,,5627,837,,Industrials,Lincolnshire,IL,no,no,no,yes
+Coty,554,,5616.2,-201.3,,Household Products,New York,NY,no,no,yes,no
+Schneider National,555,,5608.7,405.4,,Transportation,Green Bay,WI,no,no,no,yes
+Under Armour,546,,5683.5,360.1,,Apparel,Baltimore,MD,no,no,no,yes
+MDU Resources Group,547,,5680.7,378.1,,Energy,Bismarck,ND,no,no,no,yes
+Silgan Holdings,548,,5677.1,359.1,,Materials,Stamford,CT,no,no,no,yes
+Ryerson Holding,549,,5675.3,294.3,,Materials,Chicago,IL,no,no,no,yes
+Ingersoll Rand,550,,5655.2,562.5,,Industrials,Davidson,NC,no,no,no,yes
+Tapestry,541,,5746.3,834.2,,Apparel,New York,NY,no,no,yes,yes
+NetApp,542,,5744,730,,Technology,San Jose,CA,no,no,no,yes
+KB Home,543,,5724.9,564.7,,Engineering & Construction,Los Angeles,CA,no,no,no,yes
+Continental Resources,544,,5719.3,1661,,Energy,Oklahoma City,OK,no,no,no,yes
+Intuitive Surgical,545,,5710.1,1704.6,,Health Care,Sunnyvale,CA,no,no,no,yes
+Kemper,537,,5793,-120.5,,Financials,Chicago,IL,no,no,no,no
+Hilton Worldwide Holdings,538,,5788,410,,"Hotels, Restaurants & Leisure",McLean,VA,no,no,no,yes
+Cerner,539,,5764.8,555.6,,Health Care,North Kansas City,MO,no,no,no,yes
+Levi Strauss,540,,5763.9,553.5,,Apparel,San Francisco,CA,no,no,no,yes
+Nasdaq,532,,5886,1187,,Financials,New York,NY,no,no,yes,yes
+Brunswick,533,,5846.2,593.3,,Transportation,Mettawa,IL,no,no,no,yes
+Resideo Technologies,534,,5846,242,,Materials,Scottsdale,AZ,no,no,no,yes
+Chesapeake Energy,535,,5809,,,Energy,Oklahoma City,OK,no,no,no,no
+Petco Health and Wellness,536,,5807.1,164.4,,Retailing,San Diego,CA,no,no,no,yes
+Knight-Swift Transportation Holdings,527,,5998,743.4,,Transportation,Phoenix,AZ,no,no,no,yes
+Airbnb,528,,5991.8,-352,,Technology,San Francisco,CA,no,yes,no,no
+Patterson,529,,5912.1,156,,Health Care,St. Paul,MN,no,no,no,yes
+PENN Entertainment,530,,5905,420.8,,"Hotels, Restaurants & Leisure",Wyomissing,PA,no,no,no,yes
+ServiceNow,531,,5896,230,,Technology,Santa Clara,CA,no,no,no,yes
+JetBlue Airways,523,,6037,-182,,Transportation,Long Island City,NY,no,no,no,no
+SVB Financial Group,524,,6027,1833,,Financials,Santa Clara,CA,no,no,no,yes
+Fastenal,525,,6010.9,925,,Wholesalers,Winona,MN,no,no,no,yes
+GameStop,526,,6010.7,-381.3,,Retailing,Grapevine,TX,no,no,no,no
+RPM International,518,,6106.3,502.6,,Chemicals,Medina,OH,no,no,no,yes
+M&T Bank,519,,6105.8,1858.7,,Financials,Buffalo,NY,no,no,no,yes
+Sprouts Farmers Market,520,,6099.9,244.2,,Food & Drug Stores,Phoenix,AZ,no,no,no,yes
+Huntington Bancshares,521,,6080,1295,,Financials,Columbus,OH,no,no,no,yes
+CACI International,522,,6044.1,457.4,,Technology,Reston,VA,no,no,no,yes
+Select Medical Holdings,513,,6204.5,402.2,,Health Care,Mechanicsburg,PA,no,no,no,yes
+Alaska Air Group,514,,6176,478,,Transportation,Seattle,WA,no,no,no,yes
+Big Lots,515,,6150.6,177.8,,Retailing,Columbus,OH,no,no,no,yes
+Amkor Technology,516,,6138.3,643,,Technology,Tempe,AZ,no,no,no,yes
+Sinclair Broadcast Group,517,,6134,-414,,Media,Hunt Valley,MD,no,no,no,no
+Lululemon athletica,509,,6256.6,975.3,,Retailing,Sumner,WA,no,no,no,yes
+ABM Industries,510,,6228.6,126.3,,Business Services,New York,NY,no,no,no,yes
+Post Holdings,511,,6226.7,166.7,,"Food, Beverages & Tobacco",St. Louis,MO,no,no,no,yes
+Moody's,512,,6218,2214,,Business Services,New York,NY,no,no,no,yes
+McCormick,505,,6317.9,755.3,,"Food, Beverages & Tobacco",Hunt Valley,MD,no,no,no,yes
+Skechers U.S.A.,506,,6310.2,741.5,,Apparel,Manhattan Beach,CA,no,yes,no,yes
+Watsco,507,,6280.2,418.9,,Wholesalers,Miami,FL,no,no,no,yes
+Live Nation Entertainment,508,,6268.4,-650.9,,Media,Beverly Hills,CA,no,no,no,no
+O-I Glass,501,,6357,149,,Materials,Perrysburg,OH,no,no,no,yes
+Chemours,502,,6345,608,,Chemicals,Wilmington,DE,no,no,no,yes
+Crown Castle International,503,,6340,1096,,Financials,Houston,TX,no,no,no,yes
+Agilent Technologies,504,,6319,1210,,Technology,Santa Clara,CA,no,no,no,yes
+Frontier Communications,499,-97,6411,,,Telecommunications,Norwalk,CT,no,no,no,no
+Ameren,500,-31,6394,990,,Energy,St. Louis,MO,no,no,no,yes
+Robert Half International,494,,6461.4,598.6,,Business Services,Menlo Park,CA,yes,no,no,yes
+Compass,495,,6421,-494.1,,Technology,New York,NY,yes,yes,no,no
+Hasbro,496,-2,6420.4,428.7,,Household Products,Pawtucket,RI,no,no,no,yes
+Roper Technologies,497,-9,6415.8,1152.6,,Technology,Sarasota,FL,no,no,no,yes
+ARKO,498,,6412.6,59.2,,Retailing,Richmond,VA,yes,no,no,yes
+Yum Brands,490,-12,6584,1575,,"Hotels, Restaurants & Leisure",Louisville,KY,no,no,no,yes
+Landstar System,491,,6540.4,381.5,,Transportation,Jacksonville,FL,yes,no,no,yes
+CF Industries Holdings,492,,6538.3,917.1,,Chemicals,Deerfield,IL,yes,no,no,yes
+Northern Trust,493,-50,6488.3,1545.3,,Financials,Chicago,IL,no,no,no,yes
+EnLink Midstream,485,,6685.9,22.4,,Energy,Dallas,TX,yes,no,no,yes
+Southwestern Energy,486,,6667,-25,,Energy,Spring,TX,yes,no,no,no
+Equinix,487,-26,6635.5,500.2,,Financials,Redwood City,CA,no,no,no,yes
+Dillard&#8217;s,488,,6624.3,862.5,,Retailing,Little Rock,AR,yes,no,no,yes
+Regions Financial,489,-55,6605,2521,,Financials,Birmingham,AL,no,no,no,yes
+Academy Sports and Outdoors,481,-6,6773.1,671.4,,Retailing,Katy,TX,no,no,no,yes
+Sanmina,482,-64,6756.6,269,,Technology,San Jose,CA,no,yes,no,yes
+ON Semiconductor,483,,6739.8,1009.6,,Technology,Phoenix,AZ,yes,no,no,yes
+Commercial Metals,484,8,6729.8,412.9,,Materials,Irving,TX,no,no,yes,yes
+Ingredion,476,-13,6894,117,,"Food, Beverages & Tobacco",Westchester,IL,no,no,no,yes
+Veritiv,477,-38,6850.5,144.6,,Wholesalers,Atlanta,GA,no,no,no,yes
+Beacon Roofing Supply,478,-58,6820.4,243,,Wholesalers,Herndon,VA,no,no,no,yes
+Diamondback Energy,479,,6797,2182,,Energy,Midland,TX,yes,no,no,yes
+Rockwell Automation,472,-32,6997.4,1358.1,,Industrials,Milwaukee,WI,no,no,no,yes
+Citizens Financial Group,473,-92,6986,2319,,Financials,Providence,RI,no,no,no,yes
+KLA,474,-6,6918.7,2078.3,,Technology,Milpitas,CA,no,no,no,yes
+Camping World Holdings,475,21,6913.8,278.5,,Retailing,Lincolnshire,IL,no,no,no,yes
+NCR,466,-20,7156,97,,Technology,Atlanta,GA,no,no,no,yes
+Brighthouse Financial,468,-115,7142,-108,,Financials,Charlotte,NC,no,no,no,no
+PPL,469,-87,7127,-1480,,Energy,Allentown,PA,no,no,no,no
+Cintas,470,-60,7116.3,1111,,Business Services,Cincinnati,OH,no,no,no,yes
+Xerox Holdings,471,-56,7038,-455,,Technology,Norwalk,CT,no,no,no,no
+Analog Devices,463,18,7318.3,1390.4,,Technology,Wilmington,MA,no,no,no,yes
+Securian Financial Group,464,-43,7317.4,311.5,,Financials,St. Paul,MN,no,no,no,yes
+Darden Restaurants,465,-88,7196.1,629.3,,"Hotels, Restaurants & Leisure",Orlando,FL,no,no,no,yes
+Graphic Packaging Holding,466,-31,7156,204,,Materials,Atlanta,GA,no,no,no,yes
+Clorox,459,-32,7341,710,,Household Products,Oakland,CA,no,no,yes,yes
+KBR,460,10,7339,18,,Engineering & Construction,Houston,TX,no,no,no,yes
+TravelCenters of America,461,,7336.8,58.5,,Retailing,Westlake,OH,yes,no,no,yes
+Hertz Global Holdings,462,,7336,366,,Retailing,Estero,FL,yes,no,no,yes
+American Financial Group,454,-78,7462,1995,,Financials,Cincinnati,OH,no,no,no,yes
+UGI,455,-19,7447,1467,,Energy,King of Prussia,PA,no,no,no,yes
+Science Applications International,456,-44,7394,277,,Technology,Reston,VA,no,no,yes,yes
+Avantor,457,-19,7386.1,572.6,,Technology,Radnor,PA,no,no,no,yes
+Hanesbrands,458,-26,7347.8,77.2,,Apparel,Winston-Salem,NC,no,no,no,yes
+Chipotle Mexican Grill,450,14,7547.1,653,,"Hotels, Restaurants & Leisure",Newport Beach,CA,no,no,no,yes
+CMS Energy,451,-21,7538,1353,,Energy,Jackson,MI,no,no,no,yes
+Arconic,452,24,7504,-397,,Materials,Pittsburgh,PA,no,no,no,no
+Taylor Morrison Home,453,-1,7501.3,663,,Engineering & Construction,Scottsdale,AZ,no,no,yes,yes
+A-Mark Precious Metals,446,49,7613,159.6,,Wholesalers,El Segundo,CA,no,no,no,yes
+Hess,447,,7583,559,,Energy,New York,NY,yes,no,no,yes
+Vertex Pharmaceuticals,448,,7574.4,2342.1,,Health Care,Boston,MA,no,no,yes,yes
+KeyCorp,449,-53,7561,2625,,Financials,Cleveland,OH,no,no,no,yes
+LPL Financial Holdings,442,24,7720.8,459.9,,Financials,San Diego,CA,no,no,no,yes
+T. Rowe Price,443,4,7671.9,3082.9,,Financials,Baltimore,MD,no,no,no,yes
+Fortune Brands Home & Security,444,12,7656.1,772.4,,Household Products,Deerfield,IL,no,no,no,yes
+Casey's General Stores,445,-74,7654.2,312.9,,Retailing,Ankeny,IA,no,no,no,yes
+Zimmer Biomet Holdings,438,-24,7836.2,401.6,,Health Care,Warsaw,IN,no,no,no,yes
+Westinghouse Air Brake Technologies,439,-55,7822,558,,Industrials,Pittsburgh,PA,no,no,no,yes
+Zoetis,440,-9,7776,2037,,Health Care,Parsippany,NJ,no,no,yes,yes
+Packaging Corp. of America,441,-8,7730.3,841.1,,Materials,Lake Forest,IL,no,no,no,yes
+Dover,433,-4,7907.1,1123.8,,Industrials,Downers Grove,IL,no,no,no,yes
+Genworth Financial,434,-86,7882,904,,Financials,Richmond,VA,no,no,no,yes
+Bath & Body Works,435,-178,7881.5,1333.5,,Retailing,Columbus,OH,no,no,yes,yes
+Booz Allen Hamilton Holding,436,-45,7858.9,609,,Technology,McLean,VA,no,no,no,yes
+Coinbase Global,437,,7839.4,3624.1,,Financials,Wilmington,DE,yes,yes,no,yes
+MasTec,429,12,7951.8,328.8,,Engineering & Construction,Coral Gables,FL,no,no,no,yes
+APA,431,,7928,973,,Energy,Houston,TX,yes,no,no,yes
+Boise Cascade,432,61,7926.1,712.5,,Wholesalers,Boise,ID,no,no,no,yes
+Opendoor Technologies,425,,8021,-662,,Technology,San Francisco,CA,yes,yes,no,no
+J.M. Smucker,426,-48,8002.7,876.3,,"Food, Beverages & Tobacco",Orrville,OH,no,no,no,yes
+Anywhere Real Estate,427,18,7983,343,,Financials,Madison,NJ,no,no,no,yes
+Oshkosh,428,-6,7952.5,409.4,,Industrials,Oshkosh,WI,no,no,no,yes
+Williams-Sonoma,420,5,8245.9,1126.3,,Retailing,San Francisco,CA,no,no,yes,yes
+Autoliv,421,-29,8230,435,,Motor Vehicles & Parts,Auburn Hills,MI,no,no,no,yes
+Arthur J. Gallagher,422,-6,8209.4,906.8,,Financials,Rolling Meadows,IL,no,no,no,yes
+Motorola Solutions,423,-28,8171,1245,,Technology,Chicago,IL,no,no,no,yes
+Zillow Group,424,,8147.4,-527.8,,Technology,Seattle,WA,yes,yes,no,no
+WEC Energy Group,416,-16,8316,1300.3,,Energy,Milwaukee,WI,no,no,no,yes
+S&P Global,417,-24,8297,3024,,Business Services,New York,NY,no,no,no,yes
+FM Global,418,5,8274.6,2842.4,,Financials,Johnston,RI,no,no,no,yes
+Polaris,419,-12,8252,493.9,,Transportation,Medina,MN,no,no,no,yes
+Avery Dennison,412,5,8408.3,740.1,,Materials,Glendale,CA,no,no,no,yes
+Masco,413,-15,8375,410,,Household Products,Livonia,MI,no,no,no,yes
+CenterPoint Energy,414,-72,8352,1486,,Energy,Houston,TX,no,no,no,yes
+Fifth Third Bancorp,415,-57,8329,2770,,Financials,Cincinnati,OH,no,no,no,yes
+Global Payments,407,-13,8523.8,965.5,,Business Services,Atlanta,GA,no,no,no,yes
+Owens Corning,408,5,8498,995,,Materials,Toledo,OH,no,no,no,yes
+Campbell Soup,409,-74,8476,1002,,"Food, Beverages & Tobacco",Camden,NJ,no,no,no,yes
+Huntsman,410,50,8453,1045,,Chemicals,The Woodlands,TX,no,no,no,yes
+Franklin Resources,411,73,8425.5,1831.2,,Financials,San Mateo,CA,no,no,yes,yes
+Ulta Beauty,402,49,8630.9,985.8,,Retailing,Bolingbrook,IL,no,no,no,yes
+Constellation Brands,403,-44,8614.9,1998,,"Food, Beverages & Tobacco",Victor,NY,no,no,no,yes
+Expedia Group,404,,8598,12,,Retailing,Seattle,WA,yes,no,no,yes
+CommScope Holding,405,-49,8586.7,-462.6,,Technology,Hickory,NC,no,no,no,no
+Celanese,406,71,8537,1890,,Chemicals,Irving,TX,no,no,yes,yes
+UFP Industries,401,,8636.1,535.6,,Materials,Grand Rapids,MI,yes,no,no,yes
+Graybar Electric,399,,8767.3,262.4,,Wholesalers,St. Louis,MO,no,no,yes,yes
+Ovintiv,400,58,8658,1416,,Energy,Denver,CO,no,no,no,yes
+Chewy,394,9,8890.8,-73.8,,Retailing,Dania Beach,FL,no,no,no,no
+Activision Blizzard,396,-23,8803,2699,,Media,Santa Monica,CA,no,no,no,yes
+Toll Brothers,397,14,8790.4,833.6,,Engineering & Construction,Fort Washington,PA,no,no,no,yes
+Carlyle Group,398,,8782.1,2974.7,,Financials,Washington,DC,yes,no,no,yes
+Foot Locker,390,-5,8958,893,,Retailing,New York,NY,no,no,no,yes
+Dana,391,17,8945,197,,Motor Vehicles & Parts,Maumee,OH,no,no,no,yes
+SpartanNash,392,-63,8931,73.8,,Wholesalers,Byron Center,MI,no,no,no,yes
+Olin,393,79,8910.6,1296.7,,Chemicals,Clayton,MO,no,no,no,yes
+PVH,385,19,9154.7,952.3,,Apparel,New York,NY,no,no,no,yes
+Apollo Global Management,386,,9124,1838.5,,Financials,New York,NY,yes,yes,no,yes
+Jefferies Financial Group,387,32,9039.9,1674.4,,Financials,New York,NY,no,no,no,yes
+Hershey,388,-18,8971.3,1477.5,,"Food, Beverages & Tobacco",Hershey,PA,no,no,yes,yes
+NVR,389,-6,8970.1,1236.7,,Engineering & Construction,Reston,VA,no,no,no,yes
+Bed Bath & Beyond,381,-101,9233,-150.8,,Retailing,Union,NJ,no,no,yes,no
+Seaboard,382,24,9229,570,,"Food, Beverages & Tobacco",Merriam,KS,no,no,no,yes
+First American Financial,383,26,9221,1241,,Financials,Santa Ana,CA,no,no,no,yes
+Intercontinental Exchange,384,-19,9168,4058,,Financials,Atlanta,GA,no,yes,no,yes
+Old Republic International,376,25,9341.6,1534.3,,Financials,Chicago,IL,no,no,no,yes
+Burlington Stores,377,94,9322.3,408.8,,Retailing,Burlington,NJ,no,no,no,yes
+Avis Budget Group,378,120,9313,1285,,Retailing,Parsippany,NJ,no,no,no,yes
+ODP,379,-67,9267,-208,,Retailing,Boca Raton,FL,no,no,no,no
+VF,380,-117,9238.8,407.9,,Apparel,Denver,CO,no,no,no,yes
+W.R. Berkley,371,1,9455.5,1022.5,,Financials,Greenwich,CT,no,no,no,yes
+Western & Southern Financial Group,372,2,9441.7,361.2,,Financials,Cincinnati,OH,no,no,no,yes
+Insight Enterprises,373,-13,9436.1,219.3,,Technology,Tempe,AZ,no,no,yes,yes
+News Corp.,374,-37,9358,330,,Media,New York,NY,no,no,no,yes
+American Tower,375,,9356.9,2567.7,,Financials,Boston,MA,no,no,no,yes
+Cincinnati Financial,367,19,9629.7,2945.6,,Financials,Fairfield,OH,no,no,no,yes
+Erie Insurance Group,368,-21,9619.7,1130.1,,Financials,Erie,PA,no,no,no,yes
+Univar Solutions,369,-7,9535.5,460.6,,Wholesalers,Downers Grove,IL,no,no,no,yes
+Huntington Ingalls Industries,370,-43,9524,544,,Aerospace & Defense,Newport News,VA,no,no,no,yes
+United Rentals,363,-11,9716,1386,,Business Services,Stamford,CT,no,no,no,yes
+MGM Resorts International,364,,9680.1,1254.4,,"Hotels, Restaurants & Leisure",Las Vegas,NV,yes,no,no,yes
+Ryder System,365,-8,9663,519,,Transportation,Miami,FL,no,no,no,yes
+Intuit,366,14,9633,2062,,Technology,Mountain View,CA,no,no,no,yes
+Eversource Energy,358,-20,9863.1,1220.5,,Energy,Springfield,MA,no,no,no,yes
+Yum China Holdings,359,4,9853,990,,"Hotels, Restaurants & Leisure",Plano,TX,no,no,yes,yes
+Asbury Automotive Group,360,45,9837.7,532.4,,Retailing,Duluth,GA,no,no,no,yes
+Owens & Minor,361,-16,9785.3,221.6,,Health Care,Mechanicsville,VA,no,no,no,yes
+Public Service Enterprise Group,362,-44,9722,-648,,Energy,Newark,NJ,no,no,no,no
+Weyerhaeuser,354,33,10201,2607,,Materials,Seattle,WA,no,no,no,yes
+Altice USA,355,-49,10090.8,990.3,,Telecommunications,Long Island City,NY,no,no,no,yes
+Raymond James Financial,356,11,9910,1403,,Financials,St. Petersburg,FL,no,no,no,yes
+EMCOR Group,357,-13,9903.6,383.5,,Engineering & Construction,Norwalk,CT,no,no,no,yes
+Eastman Chemical,349,6,10476,857,,Chemicals,Kingsport,TN,no,no,no,yes
+Air Products & Chemicals,350,-10,10323,2099.1,,Chemicals,Allentown,PA,no,no,no,yes
+Thrivent Financial for Lutherans,351,18,10312.7,2530.2,,Financials,Minneapolis,MN,no,no,yes,yes
+Molson Coors Beverage,352,-38,10279.7,1005.7,,"Food, Beverages & Tobacco",Chicago,IL,no,no,no,yes
+Interpublic Group,353,-19,10240.7,952.8,,Business Services,New York,NY,no,no,no,yes
+DCP Midstream,344,98,10707,391,,Energy,Denver,CO,no,no,no,yes
+Ally Financial,345,-58,10690,3060,,Financials,Detroit,MI,no,no,no,yes
+Delek US Holdings,346,51,10648.2,-203.5,,Energy,Brentwood,TN,no,no,no,no
+Williams,347,32,10627,1517,,Energy,Tulsa,OK,no,no,no,yes
+Newell Brands,348,-23,10589,572,,Household Products,Atlanta,GA,no,no,no,yes
+Booking Holdings,340,84,10958,1165,,Technology,Norwalk,CT,no,no,no,yes
+Amphenol,341,8,10876.3,1590.8,,Technology,Wallingford,CT,no,no,no,yes
+Quest Diagnostics,342,-18,10788,1995,,Health Care,Secaucus,NJ,no,no,no,yes
+FirstEnergy,343,-49,10758,1283,,Energy,Akron,OH,no,no,no,yes
+Caesars Entertainment,335,,11110,-1019,,"Hotels, Restaurants & Leisure",Reno,NV,yes,no,no,no
+Equitable Holdings,336,-92,11036,-439,,Financials,New York,NY,no,no,no,no
+Advance Auto Parts,337,-36,10998,616.1,,Retailing,Raleigh,NC,no,no,no,yes
+Biogen,338,-110,10981.7,1556.1,,Health Care,Cambridge,MA,no,no,no,yes
+Auto-Owners Insurance,339,2,10980.2,1318.4,,Financials,Lansing,MI,no,no,no,yes
+Mohawk Industries,330,-9,11200.6,1033.2,,Household Products,Calhoun,GA,no,no,no,yes
+Conagra Brands,331,-48,11184.7,1298.8,,"Food, Beverages & Tobacco",Chicago,IL,no,no,no,yes
+Norfolk Southern,332,-25,11142,3005,,Transportation,Atlanta,GA,no,no,no,yes
+AES,333,-20,11141,-409,,Energy,Arlington,VA,no,no,no,no
+AGCO,334,-3,11138.3,897,,Industrials,Duluth,GA,no,no,no,yes
+Liberty Media,326,,11400,398,,Media,Englewood,CO,no,no,no,yes
+Hormel Foods,327,-10,11386.2,908.8,,"Food, Beverages & Tobacco",Austin,MN,no,no,no,yes
+Icahn Enterprises,328,125,11328,-518,,Financials,Sunny Isles Beach,FL,no,no,no,no
+Republic Services,329,-32,11295,1290.4,,Business Services,Phoenix,AZ,no,no,no,yes
+Entergy,321,-21,11742.9,1118.5,,Energy,New Orleans,LA,no,no,no,yes
+International Flavors & Fragrances,322,,11656,270,,Chemicals,New York,NY,yes,no,no,yes
+DaVita,323,-52,11618.8,978.5,,Health Care,Denver,CO,no,no,no,yes
+Mutual of Omaha Insurance,324,-42,11459.3,579,,Financials,Omaha,NE,no,no,no,yes
+Assurant,325,-23,11410,1372.4,,Financials,New York,NY,no,no,no,yes
+State Street,316,-64,12030,2693,,Financials,Boston,MA,no,no,no,yes
+Unum Group,317,-87,12013.8,824.2,,Financials,Chattanooga,TN,no,no,no,yes
+Alleghany,318,21,12004.1,1034.9,,Financials,New York,NY,no,no,no,yes
+Boston Scientific,319,-14,11888,1041,,Health Care,Marlborough,MA,no,no,no,yes
+Westlake,320,68,11778,2015,,Chemicals,Houston,TX,no,no,no,yes
+Alcoa,312,18,12152,429,,Materials,Pittsburgh,PA,no,no,no,yes
+Peter Kiewit Sons',313,-70,12149,753,,Engineering & Construction,Omaha,NE,no,no,no,yes
+Aramark,314,-79,12096,-90.8,,Business Services,Philadelphia,PA,no,no,no,no
+Vistra,315,-41,12077,-1274,,Energy,Irving,TX,no,no,no,no
+Newmont,308,-35,12222,1166,,Energy,Denver,CO,no,no,no,yes
+Devon Energy,309,,12206,2813,,Energy,Oklahoma City,OK,yes,no,no,yes
+Warner Bros. Discovery,310,-20,12191,1006,,Media,New York,NY,no,no,no,yes
+J.B. Hunt Transport Services,311,4,12168.3,760.8,,Transportation,Lowell,AR,no,no,no,yes
+Community Health Systems,304,-45,12368,230,,Health Care,Franklin,TN,no,no,no,yes
+Mosaic,305,41,12357.4,1630.6,,Chemicals,Tampa,FL,no,no,no,yes
+Thor Industries,306,62,12317.4,659.9,,Motor Vehicles & Parts,Elkhart,IN,no,no,no,yes
+Dick's Sporting Goods,307,13,12293.4,1519.9,,Retailing,Coraopolis,PA,no,no,yes,yes
+eBay,301,-25,12394,13608,,Technology,San Jose,CA,no,no,no,yes
+Textron,302,-37,12382,746,,Aerospace & Defense,Providence,RI,no,no,no,yes
+Jones Financial (Edward Jones),303,-8,12373,1605,,Financials,Des Peres,MO,no,no,yes,yes
+Sonic Automotive,300,8,12396.4,348.9,,Retailing,Charlotte,NC,no,no,no,yes
+Keurig Dr Pepper,296,-29,12683,2146,,"Food, Beverages & Tobacco",Burlington,MA,no,no,no,yes
+Universal Health Services,297,-27,12642.1,991.6,,Health Care,King of Prussia,PA,no,no,no,yes
+CSX,298,-6,12522,3781,,Transportation,Jacksonville,FL,no,no,no,yes
+Henry Schein,299,-1,12401,631.2,,Health Care,Melville,NY,no,no,no,yes
+Baxter International,292,-28,12784,1284,,Health Care,Deerfield,IL,no,no,no,yes
+Ecolab,293,-56,12733.1,1129.9,,Chemicals,St. Paul,MN,no,no,no,yes
+Tractor Supply,294,-3,12731.1,997.1,,Retailing,Brentwood,TN,no,no,no,yes
+Andersons,295,71,12728.8,104,,"Food, Beverages & Tobacco",Maumee,OH,no,no,no,yes
+Sempra,288,-33,12857,1317,,Energy,San Diego,CA,no,no,no,yes
+Markel,289,22,12846.4,2425,,Financials,Glen Allen,VA,no,no,no,yes
+Carvana,290,193,12814,-135,,Retailing,Tempe,AZ,no,yes,no,no
+XPO Logistics,291,-101,12806,336,,Transportation,Greenwich,CT,no,no,no,yes
+W.W. Grainger,284,-26,13022,1043,,Wholesalers,Lake Forest,IL,no,no,no,yes
+Quanta Services,285,-7,12980.2,486,,Engineering & Construction,Houston,TX,no,no,no,yes
+Crown Holdings,286,-17,12979,-560,,Materials,Yardley,PA,no,no,no,no
+Fox,287,-40,12909,2150,,Media,New York,NY,no,no,no,yes
+Global Partners,280,81,13248.3,60.8,,Wholesalers,Waltham,MA,no,no,no,yes
+Discover Financial Services,281,-48,13221,5449,,Financials,Riverwoods,IL,no,no,no,yes
+Rocket Companies,282,-88,13175.6,308.2,,Financials,Detroit,MI,no,no,no,yes
+LKQ,283,-17,13088.5,1090.9,,Wholesalers,Chicago,IL,no,no,no,yes
+Consolidated Edison,276,-27,13676,1346,,Energy,New York,NY,no,no,no,yes
+Ameriprise Financial,277,-24,13443,2760,,Financials,Minneapolis,MN,no,no,no,yes
+Xcel Energy,278,-6,13431,1597,,Energy,Minneapolis,MN,no,no,no,yes
+O'Reilly Automotive,279,-11,13327.6,2164.7,,Retailing,Springfield,MO,no,no,no,yes
+Ball,272,-12,13811,878,,Materials,Westminster,CO,no,no,no,yes
+Group 1 Automotive,273,13,13801.7,552.1,,Retailing,Houston,TX,no,no,no,yes
+Leidos Holdings,274,-26,13737,753,,Technology,Reston,VA,no,no,no,yes
+Wayfair,275,-58,13708,-131,,Retailing,Boston,MA,no,yes,no,no
+Fidelity National Information Services,268,-27,13877,417,,Business Services,Jacksonville,FL,no,no,no,yes
+IQVIA Holdings,269,6,13874,966,,Health Care,Durham,NC,no,no,no,yes
+Marriott International,270,23,13857,1099,,"Hotels, Restaurants & Leisure",Bethesda,MD,no,no,no,yes
+Berry Global Group,271,-10,13850,733,,Materials,Evansville,IN,no,no,no,yes
+Qurate Retail,265,-49,14044,340,,Retailing,Englewood,CO,no,no,no,yes
+Pacific Life,266,37,13936,1102,,Financials,Newport Beach,CA,no,no,no,yes
+PulteGroup,267,17,13926.9,1946.3,,Engineering & Construction,Atlanta,GA,no,no,no,yes
+Reliance Steel & Aluminum,261,82,14093.3,1413,,Materials,Los Angeles,CA,no,no,no,yes
+Jacobs Engineering Group,262,-37,14092.6,477,,Engineering & Construction,Dallas,TX,no,no,no,yes
+Corning,263,14,14082,1906,,Industrials,Corning,NY,no,no,no,yes
+Farmers Insurance Exchange,264,-8,14055,-366.8,,Financials,Woodland Hills,CA,no,no,no,no
+Dominion Energy,257,-64,14218,3288,,Energy,Richmond,VA,no,no,no,yes
+Kellogg,258,-36,14181,1488,,"Food, Beverages & Tobacco",Battle Creek,MI,no,no,no,yes
+Fluor,259,-63,14156.8,-440.2,,Engineering & Construction,Irving,TX,no,no,no,no
+AECOM,260,-71,14112.4,173.2,,Engineering & Construction,Dallas,TX,no,no,no,yes
+Illinois Tool Works,252,-12,14455,2694,,Industrials,Glenview,IL,no,no,no,yes
+Parker-Hannifin,253,-30,14347.6,1746.1,,Industrials,Cleveland,OH,no,no,no,yes
+Otis Worldwide,254,-18,14298,1246,,Industrials,Farmington,CT,no,no,yes,yes
+Omnicom Group,255,-26,14289.4,1407.8,,Business Services,New York,NY,no,no,no,yes
+Principal Financial,256,-50,14262.7,1710.6,,Financials,Des Moines,IA,no,no,no,yes
+Pioneer Natural Resources,248,180,14643,2118,,Energy,Irving,TX,no,no,no,yes
+AutoZone,249,-11,14629.6,2170.3,,Retailing,Memphis,TN,no,no,no,yes
+Lam Research,250,54,14626.2,3908.5,,Technology,Fremont,CA,no,no,no,yes
+American Family Insurance Group,251,-19,14611.9,734.5,,Financials,Madison,WI,no,no,no,yes
+BorgWarner,244,51,14838,537,,Motor Vehicles & Parts,Auburn Hills,MI,no,no,no,yes
+Nordstrom,245,44,14789,178,,Retailing,Seattle,WA,no,no,no,yes
+Loews,246,-7,14657,1578,,Financials,New York,NY,no,no,no,yes
+Guardian Life Ins. Co. of America,247,-20,14647.8,288.8,,Financials,New York,NY,no,no,no,yes
+Murphy USA,240,82,15318.8,396.9,,Retailing,El Dorado,AR,no,no,no,yes
+Halliburton,241,-30,15295,1457,,Energy,Houston,TX,no,no,no,yes
+Automatic Data Processing,242,-34,15005.4,2598.5,,Business Services,Roseland,NJ,no,no,no,yes
+Edison International,243,-17,14905,759,,Energy,Rosemead,CA,no,no,no,yes
+Synchrony Financial,236,-49,15752,4221,,Financials,Stamford,CT,no,no,no,yes
+Corteva,237,-23,15655,1759,,"Food, Beverages & Tobacco",Indianapolis,IN,no,no,no,yes
+Fidelity National Financial,238,50,15643,2422,,Financials,Jacksonville,FL,no,no,no,yes
+DTE Energy,239,11,15369,907,,Energy,Detroit,MI,no,no,no,yes
+Land O'Lakes,232,-13,15916.4,287.4,,"Food, Beverages & Tobacco",Arden Hills,MN,no,no,yes,yes
+Cheniere Energy,233,95,15864,-2343,,Energy,Houston,TX,no,no,no,no
+Southwest Airlines,234,102,15790,977,,Transportation,Dallas,TX,no,no,no,yes
+Adobe,235,-1,15785,4822,,Technology,San Jose,CA,no,no,no,yes
+Estée Lauder,228,-15,16215,2870,,Household Products,New York,NY,no,no,no,yes
+Bank of New York Mellon,229,-49,16158,3759,,Financials,New York,NY,no,no,no,yes
+Laboratory Corp. of America,230,-12,16120.9,2377.3,,Health Care,Burlington,NC,no,no,no,yes
+Regeneron Pharmaceuticals,231,123,16071.7,8075.3,,Health Care,Tarrytown,NY,no,yes,no,yes
+Expeditors Intl. of Washington,225,74,16523.5,1415.5,,Transportation,Seattle,WA,no,no,no,yes
+Advanced Micro Devices,226,83,16434,3162,,Technology,Santa Clara,CA,no,no,yes,yes
+Fiserv,227,-22,16226,1334,,Business Services,Brookfield,WI,no,no,no,yes
+Gap,220,1,16670,256,,Retailing,San Francisco,CA,no,no,no,yes
+BJ's Wholesale Club,221,-23,16667.3,426.7,,Retailing,Westborough,MA,no,no,no,yes
+Reinsurance Group of America,222,-15,16658,617,,Financials,Chesterfield,MO,no,no,yes,yes
+Kinder Morgan,223,39,16610,1784,,Energy,Houston,TX,no,no,no,yes
+Oneok,224,127,16540.3,1499.7,,Energy,Tulsa,OK,no,no,no,yes
+Western Digital,217,-35,16922,821,,Technology,San Jose,CA,no,no,no,yes
+PPG Industries,218,2,16802,1439,,Chemicals,Pittsburgh,PA,no,no,no,yes
+American Electric Power,219,-15,16792,2488.1,,Energy,Columbus,OH,no,no,no,yes
+DuPont,213,-69,17160,6467,,Chemicals,Wilmington,DE,no,no,no,yes
+Stryker,214,-2,17108,1994,,Health Care,Kalamazoo,MI,no,no,no,yes
+NextEra Energy,215,-49,17069,3573,,Energy,Juno Beach,FL,no,no,no,yes
+Targa Resources,216,148,16949.8,71.2,,Energy,Houston,TX,no,no,no,yes
+Goodyear Tire & Rubber,209,37,17478,764,,Motor Vehicles & Parts,Akron,OH,no,no,no,yes
+Uber Technologies,210,71,17455,-496,,Technology,San Francisco,CA,no,no,no,no
+Colgate-Palmolive,211,-23,17421,2166,,Household Products,New York,NY,no,no,no,yes
+Stanley Black & Decker,212,-3,17252.7,1689.2,,Household Products,New Britain,CT,no,no,no,yes
+DISH Network,205,-8,17881.1,2410.6,,Telecommunications,Englewood,CO,no,no,no,yes
+L3Harris Technologies,206,-43,17814,1846,,Aerospace & Defense,Melbourne,FL,no,no,no,yes
+DXC Technology,207,-55,17729,-149,,Technology,Tysons,VA,no,no,no,no
+Block,208,115,17661.2,166.3,,Business Services,San Francisco,CA,no,yes,no,yes
+General Mills,201,-32,18127,2339.8,,"Food, Beverages & Tobacco",Minneapolis,MN,no,no,no,yes
+Tenneco,202,-3,18035,35,,Motor Vehicles & Parts,Lake Forest,IL,no,no,no,yes
+Waste Management,203,-1,17931,1816,,Business Services,Houston,TX,no,no,no,yes
+Viatris,204,50,17886.3,-1269.1,,Health Care,Canonsburg,PA,no,no,no,no
+WESCO International,200,45,18217.5,465.4,,Wholesalers,Pittsburgh,PA,no,no,no,yes
+Moderna,195,,18471,12202,,Health Care,Cambridge,MA,yes,no,no,yes
+Steel Dynamics,196,123,18408.9,3214.1,,Materials,Fort Wayne,IN,no,yes,no,yes
+HF Sinclair,197,82,18389.1,558.3,,Energy,Dallas,TX,no,no,no,yes
+Texas Instruments,198,12,18344,7769,,Technology,Dallas,TX,no,no,no,yes
+Emerson Electric,199,-18,18236,2303,,Industrials,St. Louis,MO,no,no,no,yes
+Genuine Parts,191,-18,18870.5,898.8,,Wholesalers,Atlanta,GA,no,no,no,yes
+WestRock,192,-22,18746.1,838.3,,Materials,Atlanta,GA,no,no,no,yes
+EOG Resources,193,92,18642,4664,,Energy,Houston,TX,no,no,no,yes
+Cognizant Technology Solutions,194,-9,18507,2137,,Technology,Teaneck,NJ,no,no,no,yes
+Lincoln National,187,-15,19230,1405,,Financials,Radnor,PA,no,no,yes,yes
+Charles Schwab,188,63,18996,5855,,Financials,Westlake,TX,no,no,no,yes
+Ross Stores,189,53,18916.2,1722.6,,Retailing,Dublin,CA,no,no,yes,yes
+Mastercard,190,11,18884,8687,,Business Services,Purchase,NY,no,no,no,yes
+Kohl's,183,12,19433,938,,Retailing,Menomonee Falls,WI,no,no,yes,yes
+BlackRock,184,8,19374,5901,,Financials,New York,NY,no,no,no,yes
+Jones Lang LaSalle,185,1,19367,961.6,,Financials,Chicago,IL,no,no,no,yes
+Lear,186,-7,19263.1,373.9,,Motor Vehicles & Parts,Southfield,MI,no,no,no,yes
+Lumen Technologies,179,-40,19687,2033,,Telecommunications,Monroe,LA,no,no,no,yes
+Avnet,180,-12,19534.7,193.1,,Wholesalers,Phoenix,AZ,no,no,no,yes
+Tenet Healthcare,181,-14,19485,914,,Health Care,Dallas,TX,no,no,no,yes
+Kimberly-Clark,182,-24,19440,1814,,Household Products,Irving,TX,no,no,no,yes
+Sherwin-Williams,175,-13,19944.6,1864.4,,Chemicals,Cleveland,OH,no,no,no,yes
+Builders FirstSource,176,174,19893.9,1725.4,,Materials,Dallas,TX,no,no,no,yes
+Marsh & McLennan,177,-2,19820,3143,,Financials,New York,NY,no,no,no,yes
+PNC Financial Services Group,178,-58,19698,5674,,Financials,Pittsburgh,PA,no,no,no,yes
+Cleveland-Cliffs,171,,20444,2988,,Materials,Cleveland,OH,yes,no,no,yes
+United States Steel,172,138,20275,4174,,Materials,Pittsburgh,PA,no,no,no,yes
+Becton Dickinson,173,4,20248,2092,,Health Care,Franklin Lakes,NJ,no,no,no,yes
+CDW,166,-5,20820.8,988.6,,Technology,Lincolnshire,IL,no,no,yes,yes
+ManpowerGroup,167,-2,20724.4,382.4,,Business Services,Milwaukee,WI,no,no,no,yes
+PG&E,168,-8,20642,-102,,Energy,San Francisco,CA,no,no,yes,no
+Carrier Global,169,2,20613,1664,,Industrials,Palm Beach Gardens,FL,no,no,no,yes
+Baker Hughes,170,-30,20502,-219,,Energy,Houston,TX,no,no,no,no
+Whirlpool,162,-8,21985,1783,,Industrials,Benton Harbor,MI,no,no,no,yes
+Union Pacific,163,-10,21804,6523,,Transportation,Omaha,NE,no,no,no,yes
+International Paper,164,-23,21780,1752,,Materials,Memphis,TN,no,no,no,yes
+Altria Group,165,-27,21111,2475,,"Food, Beverages & Tobacco",Richmond,VA,no,no,no,yes
+Lithia Motors,158,73,22831.7,1060,,Retailing,Medford,OR,no,no,no,yes
+Blackstone,159,295,22577.1,5857.4,,Financials,New York,NY,no,yes,no,yes
+Hartford Financial Services Group,160,-18,22390,2365,,Financials,Hartford,CT,no,no,no,yes
+Aflac,161,-30,22106,4325,,Financials,Columbus,GA,no,no,no,yes
+C.H. Robinson Worldwide,154,37,23102.1,844.2,,Transportation,Eden Prairie,MN,no,no,no,yes
+Truist Financial,155,-36,23064,6440,,Financials,Charlotte,NC,no,no,no,yes
+Applied Materials,156,20,23063,5888,,Technology,Santa Clara,CA,no,no,no,yes
+Freeport-McMoRan,157,58,22845,4306,,Energy,Phoenix,AZ,no,no,no,yes
+Paccar,151,8,23522.3,1852.1,,Motor Vehicles & Parts,Bellevue,WA,no,no,no,yes
+McDonald's,152,5,23222.9,7545.2,,"Hotels, Restaurants & Leisure",Chicago,IL,no,no,no,yes
+Southern,153,-7,23113,2393,,Energy,Atlanta,GA,no,no,no,yes
+Visa,147,-14,24105,12311,,Business Services,San Francisco,CA,no,no,no,yes
+Rite Aid,148,-16,24043.4,-90.9,,Food & Drug Stores,Camp Hill,PA,no,no,yes,no
+Cummins,149,1,24021,2131,,Industrials,Columbus,IN,no,no,yes,yes
+U.S. Bancorp,150,-37,23714,7963,,Financials,Minneapolis,MN,no,no,no,yes
+PayPal Holdings,143,-9,25371,4169,,Business Services,San Jose,CA,no,no,no,yes
+Macy's,144,20,25292,1430,,Retailing,New York,NY,no,no,no,yes
+Duke Energy,145,-19,24677,3908,,Energy,Charlotte,NC,no,no,yes,yes
+United Airlines Holdings,146,54,24634,-1964,,Transportation,Chicago,IL,no,no,no,no
+Amgen,140,-28,25979,5893,,Health Care,Thousand Oaks,CA,no,no,no,yes
+AutoNation,141,4,25844,1373,,Retailing,Fort Lauderdale,FL,no,no,no,yes
+Penske Automotive Group,142,1,25554.7,1187.8,,Retailing,Bloomfield Hills,MI,no,no,no,yes
+Salesforce,136,1,26492,1444,,Technology,San Francisco,CA,no,yes,no,yes
+Dollar Tree,137,-26,26321.2,1327.9,,Retailing,Chesapeake,VA,no,no,no,yes
+KKR,138,178,26141.3,4666.5,,Financials,New York,NY,no,no,no,yes
+Kraft Heinz,139,-29,26042,1012,,"Food, Beverages & Tobacco",Chicago,IL,no,no,no,yes
+NRG Energy,133,200,26989,2187,,Energy,Houston,TX,no,no,no,yes
+Nvidia,134,50,26914,9752,,Technology,Santa Clara,CA,no,yes,no,yes
+Occidental Petroleum,135,48,26772,2322,,Energy,Houston,TX,no,no,yes,yes
+Gilead Sciences,129,-13,27305,6225,,Health Care,Foster City,CA,no,no,no,yes
+PBF Energy,130,73,27253.4,231,,Energy,Parsippany,NJ,no,no,no,yes
+Lennar,131,-2,27130.7,4430.1,,Engineering & Construction,Miami,FL,no,no,no,yes
+United Natural Foods,132,-25,26992,149,,Wholesalers,Providence,RI,no,no,no,yes
+Molina Healthcare,125,30,27771,659,,Health Care,Long Beach,CA,no,no,no,yes
+CBRE Group,126,-4,27746,1836.6,,Financials,Dallas,TX,no,no,no,yes
+Micron Technology,127,8,27705,5861,,Technology,Boise,ID,no,no,no,yes
+Broadcom,128,-7,27450,6736,,Technology,San Jose,CA,no,no,no,yes
+Eli Lilly,122,-4,28318.4,5581.7,,Health Care,Indianapolis,IN,no,no,no,yes
+Hewlett Packard Enterprise,123,-17,27784,3427,,Technology,Houston,TX,no,no,no,yes
+D.R. Horton,124,24,27774.2,4175.8,,Engineering & Construction,Arlington,TX,no,no,no,yes
